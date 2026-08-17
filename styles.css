@@ -1,0 +1,186 @@
+/* Muonarc — company page */
+:root {
+  --bg: #0c0d10;
+  --bg-elev: #13151a;
+  --ink: #efe8dc;
+  --ink-dim: #b6ae9f;
+  --ink-mute: #7d776c;
+  --line: rgba(239, 232, 220, 0.12);
+  --arc: #c9844a;
+  --arc-soft: rgba(201, 132, 74, 0.18);
+  --max: 1120px;
+}
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+html, body { margin: 0; padding: 0; background: var(--bg); color: var(--ink); }
+body {
+  font-family: "Figtree", system-ui, sans-serif;
+  font-size: 17px;
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+
+a { color: inherit; }
+img, svg { display: block; }
+
+.wrap { width: min(var(--max), calc(100% - 48px)); margin: 0 auto; }
+
+.top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 28px 0 0;
+}
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  text-decoration: none;
+  letter-spacing: 0.18em;
+  font-size: 12px;
+  text-transform: uppercase;
+  color: var(--ink);
+}
+.brand svg { width: 28px; height: 28px; }
+.nav { display: flex; gap: 22px; font-size: 13px; color: var(--ink-dim); }
+.nav a { text-decoration: none; }
+.nav a:hover { color: var(--ink); }
+
+.hero {
+  padding: 18vh 0 16vh;
+  position: relative;
+}
+.hero-arc {
+  position: absolute;
+  right: -8%;
+  top: 8%;
+  width: min(520px, 70vw);
+  opacity: 0.9;
+  pointer-events: none;
+}
+.kicker {
+  font-size: 12px;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--arc);
+  margin: 0 0 22px;
+}
+h1 {
+  font-family: "Fraunces", Georgia, serif;
+  font-weight: 360;
+  font-size: clamp(52px, 9vw, 104px);
+  line-height: 0.92;
+  letter-spacing: -0.03em;
+  margin: 0 0 28px;
+  max-width: 11ch;
+}
+.lede {
+  max-width: 34rem;
+  font-size: 20px;
+  color: var(--ink-dim);
+  margin: 0;
+}
+
+.rule { border: 0; border-top: 1px solid var(--line); margin: 0; }
+
+.section { padding: 88px 0; }
+.section h2 {
+  font-family: "Fraunces", Georgia, serif;
+  font-weight: 360;
+  font-size: clamp(28px, 4vw, 42px);
+  letter-spacing: -0.02em;
+  margin: 0 0 16px;
+}
+.section p.lead {
+  color: var(--ink-dim);
+  max-width: 40rem;
+  margin: 0;
+  font-size: 18px;
+}
+
+.triad {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 28px;
+  margin-top: 56px;
+}
+.card {
+  padding: 28px 0 0;
+  border-top: 1px solid var(--line);
+}
+.card .num {
+  font-size: 12px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--arc);
+  margin: 0 0 14px;
+}
+.card h3 {
+  font-family: "Fraunces", Georgia, serif;
+  font-weight: 400;
+  font-size: 26px;
+  margin: 0 0 12px;
+}
+.card p { margin: 0; color: var(--ink-dim); }
+
+.lineages { margin-top: 64px; display: grid; gap: 48px; }
+.lineage h3 {
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--ink-mute);
+  font-weight: 600;
+  margin: 0 0 18px;
+}
+.people {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1px;
+  background: var(--line);
+  border: 1px solid var(--line);
+}
+.person {
+  background: var(--bg);
+  padding: 22px 20px 24px;
+  min-height: 148px;
+}
+.person strong {
+  display: block;
+  font-family: "Fraunces", Georgia, serif;
+  font-weight: 400;
+  font-size: 22px;
+  margin-bottom: 8px;
+}
+.person span {
+  display: block;
+  color: var(--ink-dim);
+  font-size: 15px;
+}
+
+.why-block {
+  margin-top: 28px;
+  max-width: 44rem;
+  font-family: "Fraunces", Georgia, serif;
+  font-size: clamp(26px, 3.4vw, 38px);
+  line-height: 1.25;
+  font-weight: 360;
+}
+
+footer {
+  padding: 40px 0 56px;
+  color: var(--ink-mute);
+  font-size: 13px;
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+}
+footer a { color: var(--ink-dim); text-decoration: none; }
+footer a:hover { color: var(--ink); }
+
+@media (max-width: 860px) {
+  .triad, .people { grid-template-columns: 1fr; }
+  .hero { padding: 12vh 0 10vh; }
+  .nav { display: none; }
+  footer { flex-direction: column; }
+}
