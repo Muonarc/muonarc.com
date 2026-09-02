@@ -6,13 +6,16 @@
 CHECKOUT URL: NOT LIVE / PLACEHOLDER
 ```
 
-**AI disclosure (Rogue):** An AI (Rogue) drafted this 7am sequence. Benjamin clicks. Atlas does not publish overnight.
+Do not invent a live Stripe URL.
+
+**AI disclosure (Rogue):** An AI (Rogue) drafted this 7am sequence. Benjamin clicks. Atlas does not publish overnight. Live Note bodies already carry AI disclosure — copy it with the paste.
 
 Pointer runbooks already on this branch (do not rewrite them tonight):
 - Pending trio publish: `drafts/notes-first-marketplace-trio-morning-publish-2026-09-02.md` (SHA `2dff3266`)
 - Live About cleanup: `drafts/notes-first-live-marketplace-about-cleanup-2026-09-02.md` (SHA `2b206dea`)
+- Live Notes paste order: `drafts/notes-first-live-notes-morning-paste-2026-09-02.md` (SHA `b132251f`)
 
-Do **1 then 2**. **3** and **4** are decisions, not overnight writes.
+Do **1 then 2 then 3**. **4** is a daytime decision. **5** is wait (do not merge).
 
 ---
 
@@ -54,19 +57,31 @@ Strip leftover `$40` / Ko-fi / extract-request from About. Keep free utilities.
 
 ---
 
-## 3) NCUA buyer CSV — daytime decision (not overnight)
+## 3) Paste live Notes (third) — COT then USA then NCUA
+
+Paste onto muonarc.com practice surface in this order. Checkout stays **PLACEHOLDER / not live**. Full bodies: `drafts/notes-first-live-notes-morning-paste-2026-09-02.md`.
+
+1. Friday COT Pack — `drafts/notes-first-live-note-cot-pack-2026-09-02.md` (SHA `8be5ae54`)
+2. USAspending Weekly — `drafts/notes-first-live-note-usa-spending-2026-09-02.md` (SHA `791ac4a6`)
+3. NCUA+Title12 — `drafts/notes-first-live-note-ncua-title12-2026-09-02.md` (SHA `edac1ff7`)
+
+Copy the **Paste — Note title** and **Paste — Note body (short)** blocks. Include AI disclosure from those files. Do **not** invent a checkout URL.
+
+---
+
+## 4) NCUA buyer CSV — daytime decision (not overnight)
 
 `drafts/ncua-title12-2026-08-30.csv` is still **404** on this branch. Overnight `git/trees` POST was Auto-review blocked. **Do not** retry Contents PUT, `git/trees` POST, clone, force, or raise an approval card overnight. Contents PUT is the same remote write, not a safer path.
 
-Needs **daytime Atlas / Benjamin** decision: retry with approval, or skip NCUA CSV until later. HEAD of this branch after tonight’s notes lands is **not** that CSV.
+Needs **daytime Atlas / Benjamin** decision: retry with approval, or skip NCUA CSV until later.
 
 Source blob (object store only, not on this tree): hospital-price-series `2e1f3c2e60dd29335d894bde2389eb026962ff4c`.
 
 ---
 
-## 4) First live Note still waits on Benjamin
+## 5) Do not merge PR #1
 
-Muonarc/muonarc.com PR #1 stays **unmerged**. Do **not** merge. Do **not** PATCH `main`. First live Note on muonarc.com still waits on Benjamin via Atlas. Do not invent a live checkout URL.
+Muonarc/muonarc.com PR #1 stays **unmerged**. Do **not** merge. Do **not** PATCH `main`. First live Note still waits on Benjamin via Atlas until he pastes (step 3).
 
 ---
 
