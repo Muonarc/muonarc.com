@@ -21,9 +21,9 @@ Do **1 then 2 then 3 then 4**. Step 5 is daytime only. USA and NCUA wait until C
 | Step | File | SHA |
 | --- | --- | --- |
 | 1. Stripe Payment Links paste | `drafts/notes-first-stripe-payment-links-morning-paste-2026-09-02.md` | `60f31489` |
-| 1a. COT checklist (create first) | `drafts/notes-first-cot-stripe-payment-link-2026-09-02.md` | `14e19f28` |
-| 1b. USA checklist (after COT live link) | `drafts/notes-first-usa-spending-stripe-payment-link-2026-09-02.md` | `482adb6a` |
-| 1c. NCUA checklist (after COT live link) | `drafts/notes-first-ncua-title12-stripe-payment-link-2026-09-02.md` | `68d57948` |
+| 1a. COT checklist (create first) | `drafts/notes-first-cot-stripe-payment-link-2026-09-02.md` | `898bbfe2` |
+| 1b. USA checklist (after COT live link) | `drafts/notes-first-usa-spending-stripe-payment-link-2026-09-02.md` | `f13b658d` |
+| 1c. NCUA checklist (after COT live link) | `drafts/notes-first-ncua-title12-stripe-payment-link-2026-09-02.md` | `32c9d0bf` |
 | 2. Live Notes paste | `drafts/notes-first-live-notes-morning-paste-2026-09-02.md` | `8921ddbf` |
 | 2a. COT Note | `drafts/notes-first-live-note-cot-pack-2026-09-02.md` | `8be5ae54` |
 | 2b. USA Note | `drafts/notes-first-live-note-usa-spending-2026-09-02.md` | `791ac4a6` |
@@ -45,9 +45,9 @@ Walk: `drafts/notes-first-stripe-payment-links-morning-paste-2026-09-02.md` (com
 
 Create **COT first**. Then USA. Then NCUA.
 
-- COT: `drafts/notes-first-cot-stripe-payment-link-2026-09-02.md` (commit `14e19f28c0d1f4d53f469d9c520d04d32d29c00d`)
-- USA: `drafts/notes-first-usa-spending-stripe-payment-link-2026-09-02.md` (commit `482adb6ad316885bf6043458fa351b9d8ff5885b`) — wait until COT has a real `buy.stripe.com` link
-- NCUA: `drafts/notes-first-ncua-title12-stripe-payment-link-2026-09-02.md` (commit `68d57948467a82d1909d7804cd492fadcbece436`) — wait until COT has a real live Payment Link
+- COT: `drafts/notes-first-cot-stripe-payment-link-2026-09-02.md` (commit `898bbfe21024d69aed6d63a1f0d9bfafc4b5f885`)
+- USA: `drafts/notes-first-usa-spending-stripe-payment-link-2026-09-02.md` (commit `f13b658d112f4f06917eb3483ac649aaa046870d`) — wait until COT has a real `buy.stripe.com` link
+- NCUA: `drafts/notes-first-ncua-title12-stripe-payment-link-2026-09-02.md` (commit `32c9d0bfc283f2458a1e3ec0e5d7136c659b776c`) — wait until COT has a real live Payment Link
 
 Overnight checkout stays **NOT LIVE / PLACEHOLDER**. Overnight Rogue does not log in to Stripe.
 
