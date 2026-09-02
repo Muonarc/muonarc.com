@@ -1,10 +1,10 @@
-# Marketplace trio morning publish — 7:00 AM PT HITL card (not live)
+# Marketplace morning publish — 7:00 AM PT HITL card (not live)
 
 **When:** 7:00 AM PT paste for Benjamin. One card. Sequence only. Do not hunt SHAs.
 
 **Status:** HITL paste-ready. AI-drafted. Overnight: do **not** create tags, do **not** create releases, do **not** publish Marketplace. Lands on `cursor/notes-surface-a3e9` only. Not main. Not merged.
 
-**What this is:** Morning publish runbook for the **cleaned unpublished trio only**. Free utilities / Continuous integration. **No paid SKU. No Ko-fi. No hospital MRF-change extract. No $40 CTAs.**
+**What this is:** Morning publish runbook for the **cleaned unpublished Actions**. Queue matches the 7am card: nws → usgs → openfda → openfema-declarations → openfema-pa-action. Free utilities / Continuous integration. **No paid SKU. No Ko-fi. No hospital MRF-change extract. No $40 CTAs. No OpenFEMA shop SKU.**
 
 **What this is not:** hospital-mrf-index, cms-hpt-validate, cms-hpt-validator (live HPT cards stay as-is; leftover $40 About text is a **separate** morning HITL). Not NCUA CSV. Not muonarc.com Notes publish. Not Stripe. Not email. Not a post.
 
@@ -14,15 +14,15 @@
 
 ## Benjamin must click (this order)
 
-Do **1 → 2 → 3**. Finish each Action (tag + Marketplace) before the next repo. Do **not** retag `v0.1.0`. Do **not** skip the new tag.
+Do **1 → 2 → 3 → 4 → 5**. Finish each Action (tag + Marketplace) before the next repo. Do **not** retag `v0.1.0`. Do **not** skip the new tag.
 
-For **each** of the three repos below:
+For **each** of the five repos below:
 
 1. Open the repo URL.
 2. Confirm `main` is still the cleaned HEAD named here (or a later commit that keeps the $40-CTA strip). If `main` rewound to the pre-strip SHA, **stop that repo** and ping Atlas. Do not publish `v0.1.0`.
 3. **Releases → Draft a new release.**
-4. Create **new** tag **`v0.1.1`** targeting that cleaned `main` SHA. **Do not** move or retag `v0.1.0` (it still peels the pre-strip commit with leftover paid CTAs).
-5. Release title: `v0.1.1`. Body: one line — free GitHub Action; built by Rogue (AI); not an official NWS/USGS/FDA product.
+4. Create **new** tag **`v0.1.1`** targeting the **cleaned `main` SHA named for that repo** (CTA strip, not a later listing-only SHA unless this card says the listing SHA *is* the tag target). **Do not** move or retag `v0.1.0` (it still peels the pre-strip commit with leftover paid CTAs).
+5. Release title: `v0.1.1`. Body: one line — free GitHub Action; built by Rogue (AI); not an official NWS/USGS/FDA/FEMA product.
 6. Check **Publish this Action to the GitHub Marketplace**.
 7. If GitHub shows the Marketplace Developer Agreement, **Benjamin accepts** (required click). Overnight Rogue does not accept or pay a publisher fee.
 8. Primary category: **Continuous integration** (Monitoring if CI is not offered).
@@ -63,6 +63,27 @@ Then the next repo.
 - `v0.1.0` still peels pre-strip `7666cd04` — do **not** publish from it
 - Expected unpublished slug overnight: https://github.com/marketplace/actions/openfda-recalls-action (404). Name-slug: `openfda-drug-recalls`
 
+### 4) openfema-declarations-action (fourth)
+
+- Repo: https://github.com/bennyj121/openfema-declarations-action
+- **Tag `v0.1.1` from cleaned main `33c70bdf`** (CTA strip). Do **not** tag from listing HITL `b7901691`.
+- Listing HITL: `b7901691` — `drafts/MARKETPLACE-LISTING.md` (morning-must: tag 33c70bdf before publish)
+- Short description: `Fetch OpenFEMA disaster declarations, optional since-date change detect.`
+- Branding: cloud / blue
+- `v0.1.0` still peels pre-strip `40b4b3e6` — do **not** publish from it
+- Expected unpublished slug overnight: https://github.com/marketplace/actions/openfema-declarations-action (404). Name-slug: `openfema-disaster-declarations`
+
+### 5) openfema-pa-action (fifth)
+
+- Repo: https://github.com/bennyj121/openfema-pa-action — use this name. **`bennyj121/openfema-pa` is 404.**
+- **Tag `v0.1.1` from cleaned main `b38dd0c5`** (CTA strip). Do **not** tag from listing HITL `4b892d98`.
+- Listing HITL: `4b892d98` — `drafts/MARKETPLACE-LISTING.md` (morning-must: tag b38dd0c5 before publish)
+- Short description: `Fetch OpenFEMA Public Assistance projects, optional since-date change detect.`
+- Branding: cloud / blue
+- `v0.1.0` still peels pre-strip `d9864291` — do **not** publish from it
+- Expected unpublished slug overnight: https://github.com/marketplace/actions/openfema-pa-action (404). Name-slug: `openfema-public-assistance-projects`
+- Do **not** dump the full ~848k-row file from CI. Live cap stays.
+
 ---
 
 ## Out (do not do on this card)
@@ -70,11 +91,11 @@ Then the next repo.
 - Create tags / releases / Marketplace publish **overnight**
 - Retag `v0.1.0`
 - Edit live HPT cards: hospital-mrf-index, cms-hpt-validate, cms-hpt-validator
-- Paid CTAs / Ko-fi / hospital MRF-change extract / extract-request
+- Paid CTAs / Ko-fi / hospital MRF-change extract / extract-request / OpenFEMA shop SKU revival
 - Merge Muonarc/muonarc.com PR #1 / PATCH `muonarc.com` `main`
-- Retry NCUA CSV (`drafts/ncua-title12-2026-08-30.csv` still 404; git/trees Auto-review blocked; HEAD `cab006ef`)
+- Retry NCUA CSV (`drafts/ncua-title12-2026-08-30.csv` still 404; git/trees Auto-review blocked)
 - Live Stripe / invented checkout URL / email / post / cold outreach
-- r/datasets, DIP, OpenFEMA, NHC
+- r/datasets, DIP, OpenFEMA shop, NHC
 - First live Note on muonarc.com (still waits on Benjamin)
 
 **STOP holds.**
