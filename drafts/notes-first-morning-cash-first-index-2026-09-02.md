@@ -42,7 +42,7 @@ Paste **COT then USA then NCUA**. If that SKU’s checkout is still PLACEHOLDER,
 
 ## 3) Live Marketplace About cleanup
 
-Runbook: `drafts/notes-first-marketplace-about-cleanup-2026-09-02.md` (commit `2b206dea`).
+Runbook: `drafts/notes-first-live-marketplace-about-cleanup-2026-09-02.md` (commit `2b206dea`).
 
 Leftover `$40` on live Marketplace About: `hospital-mrf-index`, `cms-hpt-validate`, `cms-hpt-validator`. Morning-only. Do not edit live-card UI overnight.
 
