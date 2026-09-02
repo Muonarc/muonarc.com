@@ -1,6 +1,6 @@
 # HITL morning paste — cash-first (2026-09-02)
 
-**Status:** HITL / not published. AI-authored paste-order card. **Do not create Stripe overnight.** Do not post live Notes overnight. Do not merge PR #1. Do not PATCH `main`. Do **not** refresh `drafts/notes-first-morning-hitl-2026-09-02.md` (trees still blocked; no retry). Lands on `cursor/notes-surface-a3e9` only.
+**Status:** HITL / not published. AI-authored paste-order card. **Do not create Stripe overnight.** Do not post live Notes overnight. Do not merge PR #1. Do not PATCH `main`. 7am card is `drafts/notes-first-morning-cash-first-index-2026-09-02.md` (SHA `edd6ab9f`). Do **not** open stale `drafts/notes-first-morning-hitl-2026-09-02.md` at SHA `9bc569a3` (trees still blocked; no retry). Do not use older cash-first SHAs `fb830d06` or `5d25244e`. Lands on `cursor/notes-surface-a3e9` only.
 
 ```
 CHECKOUT URL: NOT LIVE / PLACEHOLDER
@@ -16,13 +16,13 @@ Do **1 then 2**. Finish Stripe links (or skip) before live Notes. USA and NCUA w
 
 ## 1) Stripe Payment Links (cash-first)
 
-Full walk: `drafts/notes-first-stripe-payment-links-morning-paste-2026-09-02.md` (commit `60f31489bb5b99b33ad9cdd1b7828e86a42ceaf6`).
+Full walk: `drafts/notes-first-stripe-payment-links-morning-paste-2026-09-02.md` (commit `4e5881546d2c1c25f4aaa1eb73884aaa0645d28a`).
 
 Overnight checkout stays **NOT LIVE / PLACEHOLDER**. Overnight Rogue does not log in to Stripe.
 
 ### 1a) Friday COT Pack (first)
 
-Open `drafts/notes-first-cot-stripe-payment-link-2026-09-02.md` (commit `14e19f28c0d1f4d53f469d9c520d04d32d29c00d`, blob `bc80a4fc`).
+Open `drafts/notes-first-cot-stripe-payment-link-2026-09-02.md` (commit `898bbfe21024d69aed6d63a1f0d9bfafc4b5f885`).
 
 - Product: **Friday COT Pack: 12 liquid futures (CFTC public)**
 - Band (unlocked): **$12–$25 / Friday pack**, or **$20–$40 / month retain**
@@ -30,7 +30,7 @@ Open `drafts/notes-first-cot-stripe-payment-link-2026-09-02.md` (commit `14e19f2
 
 ### 1b) USAspending Weekly (second)
 
-Open `drafts/notes-first-usa-spending-stripe-payment-link-2026-09-02.md` (commit `482adb6ad316885bf6043458fa351b9d8ff5885b`).
+Open `drafts/notes-first-usa-spending-stripe-payment-link-2026-09-02.md` (commit `f13b658d112f4f06917eb3483ac649aaa046870d`).
 
 - Product: **USAspending Weekly: NAICS 541512 Prime Awards (DoD, HHS, DHS)**
 - Band (unlocked): **$8–$20 / note**, or **$12–$40 / month retain**
@@ -38,7 +38,7 @@ Open `drafts/notes-first-usa-spending-stripe-payment-link-2026-09-02.md` (commit
 
 ### 1c) NCUA+Title12 (third)
 
-Open `drafts/notes-first-ncua-title12-stripe-payment-link-2026-09-02.md` (commit `68d57948467a82d1909d7804cd492fadcbece436`).
+Open `drafts/notes-first-ncua-title12-stripe-payment-link-2026-09-02.md` (commit `32c9d0bfc283f2458a1e3ec0e5d7136c659b776c`).
 
 - Product: **Weekly NCUA Letters-to-CUs + Title 12 Federal Register brief**
 - Band (unlocked): **$15–$40 / month retain**
@@ -81,13 +81,14 @@ Open `drafts/notes-first-live-note-ncua-title12-2026-09-02.md` (commit `edac1ff7
 ## Out
 
 - Create Stripe / invent a checkout URL overnight
-- Refresh `drafts/notes-first-morning-hitl-2026-09-02.md` / retry git/trees / Contents PUT
+- Open stale `drafts/notes-first-morning-hitl-2026-09-02.md` at `9bc569a3` / retry git/trees / Contents PUT
+- Use older cash-first SHAs `fb830d06` or `5d25244e` (7am card is `edd6ab9f`)
 - Post live Notes overnight
 - Merge PR #1 / PATCH `main`
 - Marketplace publish / tags / live-card UI
 - Retry NCUA buyer CSV
 - Scaffold another Action
-- Email / post / cold outreach
+- Send fulfillment email / post / cold outreach
 - $40 MRF SKU / extract-request / r/datasets / DIP / OpenFEMA / NHC
 
 **STOP holds.**
