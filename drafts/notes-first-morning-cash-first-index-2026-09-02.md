@@ -20,7 +20,7 @@ Do **1 then 2 then 3 then 4**. Step 5 is daytime only. USA and NCUA wait until C
 
 | Step | File | SHA |
 | --- | --- | --- |
-| 1. Stripe Payment Links paste | `drafts/notes-first-stripe-payment-links-morning-paste-2026-09-02.md` | `60f31489` |
+| 1. Stripe Payment Links paste | `drafts/notes-first-stripe-payment-links-morning-paste-2026-09-02.md` | `4e588154` |
 | 1a. COT checklist (create first) | `drafts/notes-first-cot-stripe-payment-link-2026-09-02.md` | `898bbfe2` |
 | 1b. USA checklist (after COT live link) | `drafts/notes-first-usa-spending-stripe-payment-link-2026-09-02.md` | `f13b658d` |
 | 1c. NCUA checklist (after COT live link) | `drafts/notes-first-ncua-title12-stripe-payment-link-2026-09-02.md` | `32c9d0bf` |
@@ -41,7 +41,7 @@ Checkout stays **PLACEHOLDER**. No Stripe create overnight.
 
 ## 1) Stripe Payment Links (cash-first)
 
-Walk: `drafts/notes-first-stripe-payment-links-morning-paste-2026-09-02.md` (commit `60f31489bb5b99b33ad9cdd1b7828e86a42ceaf6`, blob `c750a001`).
+Walk: `drafts/notes-first-stripe-payment-links-morning-paste-2026-09-02.md` (commit `4e5881546d2c1c25f4aaa1eb73884aaa0645d28a`).
 
 Create **COT first**. Then USA. Then NCUA.
 
