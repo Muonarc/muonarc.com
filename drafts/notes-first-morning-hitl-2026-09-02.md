@@ -11,7 +11,7 @@ Do not invent a live Stripe URL.
 **AI disclosure (Rogue):** An AI (Rogue) drafted this 7am sequence. Benjamin clicks. Atlas does not publish overnight. Live Note bodies already carry AI disclosure — copy it with the paste.
 
 Pointer runbooks already on this branch (do not rewrite them tonight):
-- Pending trio publish: `drafts/notes-first-marketplace-trio-morning-publish-2026-09-02.md` (SHA `2dff3266`)
+- Pending Marketplace publish: `drafts/notes-first-marketplace-trio-morning-publish-2026-09-02.md` (SHA `1355e80b`)
 - Live About cleanup: `drafts/notes-first-live-marketplace-about-cleanup-2026-09-02.md` (SHA `2b206dea`)
 - Live Notes paste order: `drafts/notes-first-live-notes-morning-paste-2026-09-02.md` (SHA `b132251f`)
 
@@ -21,15 +21,20 @@ Do **1 then 2 then 3**. **4** is a daytime decision. **5** is wait (do not merge
 
 ## 1) Publish the cleaned unpublished Actions (first)
 
-Tag **v0.1.1** from cleaned `main`, then Marketplace publish. **Do not** retag `v0.1.0`. Order: nws → usgs → openfda → openfema-declarations → openfema-pa-action.
+Order: nws → usgs → openfda → openfema-declarations → openfema-pa-action → **cisa-kev-action**.
+
+For 1–5: tag **v0.1.1** from cleaned `main`, then Marketplace publish. **Do not** retag `v0.1.0`.
+
+For 6 (cisa-kev-action): new Action, no prior tag. Morning must cut **v0.1.0** from cleaned main HEAD `4c6e3ec7` before Marketplace publish. Marketplace still **404**. Overnight: no tag, no release, no publish.
 
 1. https://github.com/bennyj121/nws-alerts-action HEAD `2f7cd9fd5ec1178acb710af62988d417ec30ec69`
 2. https://github.com/bennyj121/usgs-earthquakes-action HEAD `e0661964835c63ab05bc38e2e2c6d5d2196cd3fc`
 3. https://github.com/bennyj121/openfda-recalls-action HEAD `3489c9a80d5119d04151fa90b129f1569281462f`
 4. https://github.com/bennyj121/openfema-declarations-action — listing HITL `b7901691`; tag **v0.1.1** from cleaned main `33c70bdf` (not from the listing SHA)
 5. https://github.com/bennyj121/openfema-pa-action — listing HITL `4b892d98`; tag **v0.1.1** from cleaned main `b38dd0c5` (not from the listing SHA). Repo `bennyj121/openfema-pa` is **404**.
+6. https://github.com/bennyj121/cisa-kev-action — listing HITL on HEAD `4c6e3ec7`; tag **v0.1.0** from cleaned main `4c6e3ec7`. Marketplace still 404. No overnight tag/release.
 
-Click-path for 1–3 is in the trio runbook. 4–5 use the same click-path; listing copy is in each repo `drafts/MARKETPLACE-LISTING.md`. Short descriptions (free utilities; do not lead with a paid signal):
+Click-path for 1–3 is in the publish runbook. 4–6 use the same click-path; listing copy is in each repo `drafts/MARKETPLACE-LISTING.md`. Short descriptions (free utilities; do not lead with a paid signal):
 
 ```
 Fetch NWS active alerts from api.weather.gov, optional change-detect.
@@ -49,6 +54,10 @@ Fetch OpenFEMA disaster declarations, optional since-date change detect.
 
 ```
 Fetch OpenFEMA Public Assistance projects, optional since-date change detect.
+```
+
+```
+Fetch CISA KEV catalog JSON, optional since-date change detect.
 ```
 
 If GitHub shows the Marketplace Developer Agreement, **Benjamin accepts**. Overnight Rogue does not accept or pay a publisher fee.
