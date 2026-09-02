@@ -1,6 +1,8 @@
 # HITL 7am cash-first index (2026-09-02)
 
-**Status:** HITL / not published. AI-authored index only. **Do not refresh** `drafts/notes-first-morning-hitl-2026-09-02.md` (trees still blocked; no retry). Lands on `cursor/notes-surface-a3e9` only. Do not merge PR #1. Do not PATCH `main`.
+> **DO NOT OPEN** stale `drafts/notes-first-morning-hitl-2026-09-02.md` at SHA `9bc569a3`. Trees blocked overnight. **This cash-first index is the 7am card.** Do not retry git/trees or Contents PUT on that file.
+
+**Status:** HITL / not published. AI-authored index only. Lands on `cursor/notes-surface-a3e9` only. Do not merge PR #1. Do not PATCH `main`.
 
 ```
 CHECKOUT URL: NOT LIVE / PLACEHOLDER
@@ -11,6 +13,29 @@ Do not invent a live Stripe URL. Do not create Stripe overnight. Do not post liv
 **AI disclosure (Rogue):** An AI (Rogue) drafted this index. Benjamin / Atlas reviews before any Payment Link, live Note, or Marketplace publish. Copy the disclosure with each paste.
 
 Do **1 then 2 then 3 then 4**. Step 5 is daytime only. USA and NCUA wait until COT has a **real** live Payment Link.
+
+---
+
+## SHA table (pin these)
+
+| Step | File | SHA |
+| --- | --- | --- |
+| 1. Stripe Payment Links paste | `drafts/notes-first-stripe-payment-links-morning-paste-2026-09-02.md` | `60f31489` |
+| 1a. COT checklist (create first) | `drafts/notes-first-cot-stripe-payment-link-2026-09-02.md` | `14e19f28` |
+| 1b. USA checklist (after COT live link) | `drafts/notes-first-usa-spending-stripe-payment-link-2026-09-02.md` | `482adb6a` |
+| 1c. NCUA checklist (after COT live link) | `drafts/notes-first-ncua-title12-stripe-payment-link-2026-09-02.md` | `68d57948` |
+| 2. Live Notes paste | `drafts/notes-first-live-notes-morning-paste-2026-09-02.md` | `8921ddbf` |
+| 2a. COT Note | `drafts/notes-first-live-note-cot-pack-2026-09-02.md` | `8be5ae54` |
+| 2b. USA Note | `drafts/notes-first-live-note-usa-spending-2026-09-02.md` | `791ac4a6` |
+| 2c. NCUA Note | `drafts/notes-first-live-note-ncua-title12-2026-09-02.md` | `edac1ff7` |
+| 3. About cleanup | `drafts/notes-first-live-marketplace-about-cleanup-2026-09-02.md` | `2b206dea` |
+| 4. Marketplace morning publish | `drafts/notes-first-marketplace-trio-morning-publish-2026-09-02.md` | `c21ecf81` |
+| 4. cisa morning tag | `bennyj121/cisa-kev-action` main | `v0.1.0` from `54ff5dd2` |
+| 4. cisa listing HITL | `drafts/MARKETPLACE-LISTING.md` on cisa-kev-action | `2d804188` |
+| 5. NCUA buyer CSV | — | still **404** → daytime only |
+| STALE — do not open | `drafts/notes-first-morning-hitl-2026-09-02.md` | `9bc569a3` |
+
+Checkout stays **PLACEHOLDER**. No Stripe create overnight.
 
 ---
 
@@ -59,7 +84,7 @@ Tag then publish. Queue:
 - openfda-recalls-action — tag `v0.1.1`
 - openfema-declarations-action — tag `v0.1.1` from cleaned main `33c70bdf`
 - openfema-pa-action — tag `v0.1.1` from cleaned main `b38dd0c5` (repo `openfema-pa` is 404)
-- cisa-kev-action — tag `v0.1.0` from `54ff5dd2` (CI smoke included; not `4c6e3ec7`)
+- cisa-kev-action — tag `v0.1.0` from `54ff5dd2` (CI smoke included; listing HITL `2d804188`; not `4c6e3ec7`)
 
 Morning-only. Do not create tags overnight. Do not open listing UI overnight.
 
@@ -73,7 +98,7 @@ Still **404**. After approval only. Do not retry git/trees or Contents PUT overn
 
 ## Out
 
-- Refresh `drafts/notes-first-morning-hitl-2026-09-02.md` / retry git/trees / Contents PUT
+- Open stale `drafts/notes-first-morning-hitl-2026-09-02.md` at `9bc569a3` / retry git/trees / Contents PUT
 - Create Stripe / invent a checkout URL overnight
 - Post live Notes overnight
 - Merge PR #1 / PATCH `main`
