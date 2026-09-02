@@ -6,21 +6,21 @@
 CHECKOUT URL: NOT LIVE / PLACEHOLDER
 ```
 
-**Wait rule (morning card SHA `9bc569a3`, same as USA):** NCUA Payment Link **waits until COT has a real live Payment Link.** Do not walk this checklist in the Dashboard before the Friday COT Pack Payment Link exists. Overnight Rogue does not log in to Stripe.
+**Wait rule (7am card SHA `fb830d06`, same as USA):** NCUA Payment Link **waits until COT has a real live Payment Link.** Do not walk this checklist in the Dashboard before the Friday COT Pack Payment Link exists. Overnight Rogue does not log in to Stripe.
 
 **AI disclosure (Rogue):** An AI (Rogue) drafted this checklist. Benjamin creates the Payment Link only after COT is live. Overnight Rogue does not create Stripe.
 
 **SKU:** Weekly NCUA Letters-to-CUs + Title 12 Federal Register brief only. Not Friday COT Pack. Not USAspending Weekly. Not the $40 hospital MRF-change extract.
 
-Same 7am Benjamin checklist shape as `drafts/notes-first-cot-stripe-payment-link-2026-09-02.md` (SHA `14e19f28`) and `drafts/notes-first-usa-spending-stripe-payment-link-2026-09-02.md` (SHA `482adb6a`).
+Same 7am Benjamin checklist shape as `drafts/notes-first-cot-stripe-payment-link-2026-09-02.md` (SHA `898bbfe2`) and `drafts/notes-first-usa-spending-stripe-payment-link-2026-09-02.md` (SHA `f13b658d`).
 
 Paste-fields and click-path already on this branch (do not rewrite them):
 - Click-path: `drafts/notes-first-ncua-title12-stripe-clickpath-2026-09-01.md`
 - Checkout paste-fields: `drafts/notes-first-ncua-title12-checkout-2026-08-30.md`
 - Live Note (parked until COT has a real link, then until this Payment Link exists): `drafts/notes-first-live-note-ncua-title12-2026-09-02.md` (SHA `edac1ff7`)
-- COT Payment Link checklist (goes first): `drafts/notes-first-cot-stripe-payment-link-2026-09-02.md` (SHA `14e19f28`)
-- USA Payment Link checklist (also waits on COT): `drafts/notes-first-usa-spending-stripe-payment-link-2026-09-02.md` (SHA `482adb6a`)
-- 7am card (cash-first, do not redo): `drafts/notes-first-morning-hitl-2026-09-02.md` (SHA `9bc569a3`)
+- COT Payment Link checklist (goes first): `drafts/notes-first-cot-stripe-payment-link-2026-09-02.md` (SHA `898bbfe2`)
+- USA Payment Link checklist (also waits on COT): `drafts/notes-first-usa-spending-stripe-payment-link-2026-09-02.md` (SHA `f13b658d`)
+- 7am card (cash-first; this is the 7am card): `drafts/notes-first-morning-cash-first-index-2026-09-02.md` (SHA `fb830d06`). Do **not** open stale `drafts/notes-first-morning-hitl-2026-09-02.md` at SHA `9bc569a3`.
 
 Buyer CSV `drafts/ncua-title12-2026-08-30.csv` is still **404**. Do **not** retry Contents PUT / `git/trees` overnight. Fulfillment CSV is a daytime decision.
 
@@ -56,7 +56,8 @@ Do **not** start until Friday COT Pack has a real `buy.stripe.com` link from `dr
 7. Cancel URL: **confirm in Dashboard**. Do not guess a button. Keep the cancel placeholder as copy only.
 8. Click **Create link**. Copy the real Payment Link URL Stripe shows (`buy.stripe.com/...`). That URL did not exist overnight. This repo must not invent it.
 9. Open `drafts/notes-first-live-note-ncua-title12-2026-09-02.md`. Replace `CHECKOUT URL: NOT LIVE / PLACEHOLDER` with the **real** Payment Link URL from step 8. Paste **Paste — Note title** and **Paste — Note body (short)** onto muonarc.com practice surface. Keep the AI disclosure. **Do not paste this Note overnight.**
-10. Buyer CSV is still 404. Do **not** retry NCUA CSV overnight. Daytime Atlas / Benjamin decision.
+10. **Post-pay (first paid NCUA checkout):** fulfill with `drafts/notes-first-ncua-title12-fulfillment-email-2026-09-01.md`. Template only. Do **not** send the email overnight. Wait for a real paid checkout, then Atlas / Benjamin sends. Mirrors COT `898bbfe2` and USA `f13b658d`.
+11. Buyer CSV is still 404. Do **not** retry NCUA CSV overnight. Daytime Atlas / Benjamin decision.
 
 ---
 
@@ -66,12 +67,12 @@ Do **not** start until Friday COT Pack has a real `buy.stripe.com` link from `dr
 - Call Stripe API / open Stripe UI beyond this md
 - Invent a `buy.stripe.com` or muonarc.com checkout URL
 - Paste a live Note
-- Redo COT `14e19f28`, USA `482adb6a`, or morning-card `9bc569a3`
+- Redo COT `898bbfe2`, USA `f13b658d`, or cash-first index `fb830d06` / open stale morning-hitl `9bc569a3`
 - Scaffold another unpublished Action (nist-nvd parked)
 - Tag / release / Marketplace publish / live-card About UI
 - Retry NCUA CSV / Contents PUT / `git/trees`
 - Merge PR #1 / PATCH `muonarc.com` `main`
-- Send email / post / cold email / second emails on killed rails (r/datasets, DIP, OpenFEMA, NHC)
+- Send email / post / cold email / second emails on killed rails (r/datasets, DIP, OpenFEMA, NHC) (including the NCUA fulfillment template)
 - Walk this checklist in the Dashboard before COT has a real Payment Link
 
 **STOP holds.**
