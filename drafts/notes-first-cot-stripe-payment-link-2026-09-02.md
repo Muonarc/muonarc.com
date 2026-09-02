@@ -15,7 +15,7 @@ Paste-fields and click-path already on this branch (do not rewrite them):
 - Checkout paste-fields: `drafts/notes-first-cot-pack-checkout-2026-08-30.md`
 - Success/cancel: `drafts/notes-first-cot-success-cancel-2026-09-01.md`
 - Live Note to paste after the link exists: `drafts/notes-first-live-note-cot-pack-2026-09-02.md` (SHA `8be5ae54`)
-- 7am card (cash-first, do not redo): `drafts/notes-first-morning-hitl-2026-09-02.md` (SHA `9bc569a3`)
+- 7am card (cash-first; this is the 7am card): `drafts/notes-first-morning-cash-first-index-2026-09-02.md` (SHA `fb830d06`). Do **not** open stale `drafts/notes-first-morning-hitl-2026-09-02.md` at SHA `9bc569a3`.
 
 ---
 
@@ -49,7 +49,8 @@ Do in order. Overnight Rogue stops before step 1.
 6. Cancel URL: **confirm in Dashboard**. Do not guess a button. Keep the cancel placeholder as copy only.
 7. Click **Create link**. Copy the real Payment Link URL Stripe shows (`buy.stripe.com/...`). That URL did not exist overnight. This repo must not invent it.
 8. Open `drafts/notes-first-live-note-cot-pack-2026-09-02.md`. Replace `CHECKOUT URL: NOT LIVE / PLACEHOLDER` with the **real** Payment Link URL from step 7. Paste **Paste — Note title** and **Paste — Note body (short)** onto muonarc.com practice surface. Keep the AI disclosure.
-9. Confirm **USA and NCUA stay wait.** Do **not** paste `drafts/notes-first-live-note-usa-spending-2026-09-02.md` (`791ac4a6`) or `drafts/notes-first-live-note-ncua-title12-2026-09-02.md` (`edac1ff7`) until COT has a real Payment Link. Do **not** create USA or NCUA Stripe products this morning.
+9. **Post-pay (first paid COT checkout):** fulfill with `drafts/notes-first-cot-fulfillment-email-2026-09-01.md`. Template only. Do **not** send the email overnight. Wait for a real paid checkout, then Atlas / Benjamin sends.
+10. Confirm **USA and NCUA stay wait.** Do **not** paste `drafts/notes-first-live-note-usa-spending-2026-09-02.md` (`791ac4a6`) or `drafts/notes-first-live-note-ncua-title12-2026-09-02.md` (`edac1ff7`) until COT has a real Payment Link. Do **not** create USA or NCUA Stripe products this morning.
 
 Then continue the 7am card: live Marketplace About cleanup, then the Marketplace publish queue, then NCUA CSV as a daytime decision.
 
@@ -60,12 +61,12 @@ Then continue the 7am card: live Marketplace About cleanup, then the Marketplace
 - Create a Stripe product / Price / Payment Link overnight
 - Call Stripe API
 - Invent a `buy.stripe.com` or muonarc.com checkout URL
-- Redo morning-card SHA `9bc569a3`
+- Redo cash-first index SHA `fb830d06` / open stale morning-hitl SHA `9bc569a3` / retry trees or Contents PUT
 - Scaffold another Action (nist-nvd etc.)
 - Tag / release / Marketplace publish / live-card About UI
 - Retry NCUA CSV / Contents PUT / `git/trees`
 - Merge PR #1 / PATCH `muonarc.com` `main`
-- Send email / post / cold email
+- Send email / post / cold email (including the COT fulfillment template)
 - Paste USA or NCUA live Notes before COT has a real Payment Link
 
 **STOP holds.**
