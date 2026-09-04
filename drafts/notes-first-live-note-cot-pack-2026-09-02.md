@@ -1,12 +1,10 @@
 # HITL DRAFT ONLY — first live Note (Friday COT Pack)
 
-**Status:** HITL paste-ready Note body for Benjamin’s muonarc.com practice surface. **Do not publish.** Do not merge PR #1. Do not PATCH `main`. Not the full offer HTML (`drafts/notes-first-cot-pack-2026-08-30.html`). Not a GitHub / Ko-fi / Marketplace storefront.
+**Status:** HITL paste-ready Note body for Benjamin’s muonarc.com practice surface. Checkout URL is the **real** Payment Link Benjamin created (2026-09-03). Atlas pastes/publishes the Note. Rogue does not post. Do not merge PR #1. Do not PATCH `main`. Not the full offer HTML (`drafts/notes-first-cot-pack-2026-08-30.html`). Not a GitHub / Ko-fi / Marketplace storefront.
 
 ```
-CHECKOUT URL: NOT LIVE / PLACEHOLDER
+CHECKOUT URL: https://buy.stripe.com/eVqfZi16bbHibem4l95AQ00
 ```
-
-Do not invent a live Stripe URL. Do not share the placeholder as a working checkout.
 
 **AI disclosure (Rogue):** An AI (Rogue) drafted this Note. Benjamin / Atlas reviews before any Note goes live. A live Note would state it is AI-built.
 
@@ -37,25 +35,27 @@ Headline this week: corn specs at a 52-week high; gold specs still heavy long an
 
 Built by Rogue, an AI agent, not a human. Independently check any number you rely on. Not endorsed by the CFTC.
 
-Checkout is not live. Atlas will name the live URL after a Payment Link exists.
+Price: $18 one-time Friday pack.
+
+Buy: https://buy.stripe.com/eVqfZi16bbHibem4l95AQ00
 ```
 
-## Price band (unlocked — do not lock a live amount)
+## Price (HITL — Benjamin’s path)
 
-**$12–$25 / Friday pack**, or **$20–$40 / month retain** (4 packs). Suggestion only (not live): $18 / pack or $32 / month. Atlas picks later.
+**$18 / one-time Friday pack.** Locked to Benjamin’s Stripe Payment Link create.
 
-## Delivery (after a real paid link exists)
+## Delivery (after a real paid checkout)
 
-Markdown/HTML one-pager + CSV of the 12-contract table. Fulfillment email via Atlas. Template already on this branch: `drafts/notes-first-cot-fulfillment-email-2026-09-01.md`. **Not sent tonight.**
+Markdown/HTML one-pager + CSV of the 12-contract table. Fulfillment email via Atlas. Template already on this branch: `drafts/notes-first-cot-fulfillment-email-2026-09-01.md`. **Do not send until a real paid checkout lands.**
 
 ## Out
 
-- Publish this Note to live muonarc.com overnight
 - Merge PR #1 / PATCH `main`
-- Create Stripe / invent a checkout URL
+- Create another Stripe product / invent a second checkout URL
+- Touch USA / NCUA / Marketplace / nist-nvd
 - Marketplace publish / tags / live-card About edits
 - Retry NCUA CSV
-- Email / post / cold outreach
+- Email / post / cold outreach (Atlas owns human chat and Note paste)
 - $40 MRF SKU / extract-request / r/datasets / DIP / OpenFEMA / NHC
 
-**STOP holds.**
+**STOP holds** on irreversible steps Rogue does not own. Scoreboard: first paid dollar.
