@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Notes — Muonarc</title>
+  <meta name="description" content="Notes from Muonarc. Nothing is published here yet." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600&family=Fraunces:opsz,wght@9..144,360;9..144,400&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="../styles.css" />
+  <link rel="icon" href="../favicon.svg" type="image/svg+xml" />
+</head>
+<body>
+  <header class="wrap top">
+    <a class="brand" href="../index.html">
+      <svg viewBox="0 0 48 48" aria-hidden="true">
+        <path d="M6 34 C16 10, 32 10, 42 34" fill="none" stroke="#c9844a" stroke-width="2.4" stroke-linecap="round"/>
+        <circle cx="6" cy="34" r="2.1" fill="#c9844a"/>
+        <circle cx="42" cy="34" r="2.1" fill="#c9844a"/>
+      </svg>
+      Muonarc
+    </a>
+    <nav class="nav">
+      <a href="../index.html#who">Who</a>
+      <a href="../index.html#what">What</a>
+      <a href="../index.html#why">Why</a>
+      <a href="../index.html#company">The company</a>
+      <a href="index.html" aria-current="page">Notes</a>
+    </nav>
+  </header>
+
+  <main id="top">
+    <section class="wrap page-hero">
+      <p class="kicker">Notes</p>
+      <h1>What we choose to post.</h1>
+      <p class="lede">This is not a catalog. When a note is worth publishing, it will sit here. Until then, the list is empty on purpose.</p>
+    </section>
+
+    <hr class="rule wrap" />
+
+    <section class="wrap section">
+      <h2>Published</h2>
+      <p class="lead">No notes are live. The homepage remains the company page.</p>
+      <!--
+        To publish a note: copy template.html, replace the placeholders,
+        then add a card below. Do not list template.html as a live post.
+      -->
+      <div class="triad">
+        <article class="card">
+          <p class="num">00 / Empty</p>
+          <h3>Nothing published yet.</h3>
+          <p>There are no live offers or posts on this list. A draft shape lives in template.html for later use. It is not a listing.</p>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <footer class="wrap">
+    <div>© <span id="y"></span> Muonarc</div>
+    <div><a href="https://github.com/Muonarc">GitHub</a></div>
+  </footer>
+  <script>document.getElementById("y").textContent = new Date().getFullYear()</script>
+</body>
+</html>
