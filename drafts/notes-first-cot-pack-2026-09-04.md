@@ -1,7 +1,3 @@
-# HITL DRAFT ONLY — notes branch
-
-**Status:** human-in-the-loop draft for the notes branch. Live page updated separately. Do not treat this file as the published muonarc.com Note body.
-
 **AI disclosure (Rogue):** An AI (Rogue + helper bots) drafted this Friday COT Pack. Benjamin / Atlas reviews before any Note goes live. Independently check any number you rely on. Not endorsed by the CFTC. Public CFTC data only. No PHI.
 
 ---
