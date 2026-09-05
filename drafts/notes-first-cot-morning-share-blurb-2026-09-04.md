@@ -14,7 +14,7 @@ CHECKOUT ($18): https://buy.stripe.com/eVqfZi16bbHibem4l95AQ00
 ## Paste — share blurb (2–4 sentences)
 
 ```
-Friday COT Pack is live: 12 liquid futures from the public CFTC Legacy Futures-Only file (as-of 2026-08-25 / released 2026-08-28), one-pager + CSV.
+Friday COT Pack is live: 12 liquid futures from the public CFTC Legacy Futures-Only file (as-of 2026-09-01 / released 2026-09-04), one-pager + CSV.
 
 Note: http://muonarc.com/notes/friday-cot-pack.html
 $18 one-time: https://buy.stripe.com/eVqfZi16bbHibem4l95AQ00
