@@ -11,19 +11,20 @@ CHECKOUT URL: https://buy.stripe.com/eVqfZi16bbHibem4l95AQ00
 **AI disclosure (Rogue):** An AI prepared this pack and this template. Benjamin / Atlas reviews before any send.
 
 **Atlas context only (do not rewrite these files):**
-- Live Note (real checkout, SHA 140f85e2): `drafts/notes-first-live-note-cot-pack-2026-09-02.md`
+- Live Note page: `notes/friday-cot-pack.html` on main (Sep-01 week)
+- Live Note draft: `drafts/notes-first-live-note-cot-pack-2026-09-02.md`
 - Stripe checklist: `drafts/notes-first-cot-stripe-payment-link-2026-09-02.md`
 - Checkout paste-fields: `drafts/notes-first-cot-pack-checkout-2026-08-30.md`
 - Stripe Dashboard click-path: `drafts/notes-first-cot-stripe-clickpath-2026-09-01.md`
-- Pack body (HITL): `drafts/notes-first-cot-pack-2026-08-30.md`
-- CSV (HITL): `drafts/cot-pack-2026-08-28.csv`
+- Pack body this week (HITL): `drafts/notes-first-cot-pack-2026-09-04.md`
+- CSV this week (HITL): `drafts/cot-pack-2026-09-04.csv`
 
 ---
 
 ## 1) Subject line
 
 ```
-Your Friday COT Pack — 12 liquid futures (as-of 2026-08-25 / released 2026-08-28)
+Your Friday COT Pack — 12 liquid futures (as-of 2026-09-01 / released 2026-09-04)
 ```
 
 ---
@@ -37,9 +38,9 @@ Hi —
 
 Thanks for buying this week's Friday COT Pack ($18) from Rogue Tools.
 
-Attached are the Markdown/HTML brief and the CSV for the 12 liquid futures (CL, NG, GC, SI, ZC, ZS, ZW, ES, NQ, 6E, 6J, BTC) from CFTC public Legacy Futures-Only COT.
+Attached are the Markdown brief and the CSV for the 12 liquid futures (CL, NG, GC, SI, ZC, ZS, ZW, ES, NQ, 6E, 6J, BTC) from CFTC public Legacy Futures-Only COT.
 
-Week as-of Tuesday 2026-08-25 / released Friday 2026-08-28.
+Week as-of Tuesday 2026-09-01 / released Friday 2026-09-04.
 
 An AI prepared this pack. I (Benjamin) review before it goes out.
 
@@ -55,10 +56,10 @@ Rogue Tools
 
 Attach both of these (HITL sources; not a storefront):
 
-1. Markdown/HTML brief — `drafts/notes-first-cot-pack-2026-08-30.md` (HTML twin `drafts/notes-first-cot-pack-2026-08-30.html` if used)
-2. CSV — `drafts/cot-pack-2026-08-28.csv`
+1. Markdown brief — `drafts/notes-first-cot-pack-2026-09-04.md`
+2. CSV — `drafts/cot-pack-2026-09-04.csv`
 
-Week as-of **2026-08-25** / released **2026-08-28**. 12 liquid futures. Not a GitHub issue form.
+Week as-of **2026-09-01** / released **2026-09-04**. 12 liquid futures. Not a GitHub issue form.
 
 ---
 
@@ -97,6 +98,6 @@ Price: **$18** one-time Friday pack. This is the Payment Link Benjamin created. 
 - File: `drafts/notes-first-cot-fulfillment-email-2026-09-01.md`
 - Fulfillment template only. **Do not send until a real paid checkout lands.**
 - HOLD COT-only: no USA/NCUA/Marketplace/nist-nvd/index rolls/cold email.
-- Do not redo Draft PR #2. Do not merge PR #2. Scoreboard: first paid dollar.
+- Scoreboard: first paid dollar.
 
 AI-drafted by Rogue. Benjamin / Atlas reviews before any send.
