@@ -69,9 +69,14 @@ Ignore Render / Grok receipts. If a hit names **COT** / **Friday COT Pack** / **
 
 ### Steps 1–4 — one-shot approve / post (DO-NOT-POST until Atlas/Benjamin)
 
-Atlas / Benjamin picks zero, one, or more of the four **after** step 0 is done or explicitly waived. For each chosen venue: open the thread URL → paste the matching body below → post only after explicit go. Prefer **http** Note URL until Pages Enforce HTTPS. Do not create Stripe. Do not send fulfill email until a paid checkout.
+**Recommended post order** (default if Benjamin posts only one):
 
----
+1. **FXStreet** first — freshest pub (2026-09-06) on this week’s COT report
+2. **Titan FX** — corn headline match (ZC net 536,743 / +95,828)
+3. **IndexBox** — Sep 4 analysis of Sep 1 as-of week
+4. **World Perspectives** — Sep 4 ag COT analysis
+
+Atlas / Benjamin may still pick any subset or a different order. Paste bodies below stay numbered by venue, not by recommend rank.
 
 ### 1) FXStreet — paste body (DO-NOT-POST until Atlas/Benjamin)
 
