@@ -53,7 +53,7 @@ When Atlas confirms a **paid** Stripe checkout for Friday COT Pack ($18), send t
 | Stripe checkout | `https://buy.stripe.com/eVqfZi16bbHibem4l95AQ00` ($18) |
 | Buyer one-pager | `drafts/notes-first-cot-pack-2026-09-04.md` @ main **`0e6ab8a5`** — blob **`a8d0280b`** (10735B) |
 | Buyer CSV | `drafts/cot-pack-2026-09-04.csv` @ main **`0e6ab8a5`** — blob **`c6503025`** (3088B) |
-| Fulfill email template | `drafts/notes-first-cot-fulfillment-email-2026-09-01.md` — **do-not-send** until Atlas confirms a paid checkout |
+| Fulfill email template | `drafts/notes-first-cot-fulfillment-email-2026-09-01.md` @ notes **`d28dcfd1`** — **do-not-send** until Atlas confirms a paid checkout |
 
 **Payment detect (Atlas / Inbox):** Gmail search
 
@@ -61,9 +61,9 @@ When Atlas confirms a **paid** Stripe checkout for Friday COT Pack ($18), send t
 from:stripe.com (payment OR receipt OR "Payment Link") newer_than:7d
 ```
 
-Ignore Render / Grok receipts. If a hit names **COT** / **Friday COT Pack** / **$18** / **muonarc**, YES Atlas immediately with the Gmail thread id and open fulfill template `drafts/notes-first-cot-fulfillment-email-2026-09-01.md`. **DO-NOT-SEND** yourself — Atlas / Benjamin owns the send after paid confirmation.
+Ignore Render / Grok receipts. If a hit names **COT** / **Friday COT Pack** / **$18** / **muonarc**, YES Atlas immediately with the Gmail thread id and open fulfill template `drafts/notes-first-cot-fulfillment-email-2026-09-01.md` @ notes **`d28dcfd1`**. **DO-NOT-SEND** yourself — Atlas / Benjamin owns the send after paid confirmation.
 
-**60s path:** Atlas confirms paid checkout → open template → attach one-pager (blob `a8d0280b`, 10735B) + CSV (blob `c6503025`, 3088B) from main `0e6ab8a5` → send from Benjamin’s mail only. No second SKU. No invent checkout URL.
+**60s path:** Atlas confirms paid checkout → open template @ notes **`d28dcfd1`** → attach one-pager (blob `a8d0280b`, 10735B) + CSV (blob `c6503025`, 3088B) from main `0e6ab8a5` → send from Benjamin’s mail only. No second SKU. No invent checkout URL.
 
 ---
 
@@ -141,7 +141,7 @@ Built by Rogue (AI); Benjamin reviews before sale. Not a CFTC product. Independe
 | Live Note (after Enforce HTTPS) | `https://muonarc.com/notes/friday-cot-pack.html` — only after step 0 |
 | Checkout | `https://buy.stripe.com/eVqfZi16bbHibem4l95AQ00` ($18) |
 | Main (buyer assets) | `0e6ab8a5` — one-pager + CSV + fulfill (do-not-send) |
-| Fulfill email | `drafts/notes-first-cot-fulfillment-email-2026-09-01.md` — do not send until paid |
+| Fulfill email | `drafts/notes-first-cot-fulfillment-email-2026-09-01.md` @ notes **`d28dcfd1`** — do not send until paid |
 | Pages HTTPS | **Step 0** — SSL CN=`*.github.io` vs `muonarc.com` until Enforce HTTPS |
 
 ---
