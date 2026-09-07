@@ -18,10 +18,10 @@ WEEK: as-of Tuesday 2026-09-01 / CFTC released Friday 2026-09-04
 
 | # | Venue | Thread | Draft path | Notes SHA |
 | --- | --- | --- | --- | --- |
-| 1 | FXStreet | https://www.fxstreet.com/analysis/cot-report-4-september-2026-202609061843 | `drafts/notes-first-cot-borrowed-share-2026-09-06.md` | `0e23ec02` |
-| 2 | IndexBox | https://www.indexbox.io/blog/cot-report-september-1-2026-major-shifts-in-commodity-futures-positioning/ | `drafts/notes-first-cot-borrowed-share-2-2026-09-06.md` | `d74636a8` |
-| 3 | World Perspectives | https://worldperspectives.com/index.php/articles/cftc-cot-report-analysis2026sep4 | `drafts/notes-first-cot-borrowed-share-3-2026-09-06.md` | `b89a6dc1` |
-| 4 | Titan FX | https://research.titanfx.com/cftc/cot-corn | `drafts/notes-first-cot-borrowed-share-4-2026-09-06.md` | `b11f5a89` |
+| 1 | FXStreet | https://www.fxstreet.com/analysis/cot-report-4-september-2026-202609061843 | `drafts/notes-first-cot-borrowed-share-2026-09-06.md` | `a1accdb8` |
+| 2 | IndexBox | https://www.indexbox.io/blog/cot-report-september-1-2026-major-shifts-in-commodity-futures-positioning/ | `drafts/notes-first-cot-borrowed-share-2-2026-09-06.md` | `bf57dddd` |
+| 3 | World Perspectives | https://worldperspectives.com/index.php/articles/cftc-cot-report-analysis2026sep4 | `drafts/notes-first-cot-borrowed-share-3-2026-09-06.md` | `6398d0da` |
+| 4 | Titan FX | https://research.titanfx.com/cftc/cot-corn | `drafts/notes-first-cot-borrowed-share-4-2026-09-06.md` | `8afa98ce` |
 
 ---
 
