@@ -42,6 +42,22 @@ Do **not** paste `https://muonarc.com/...` in comments until Enforce HTTPS is on
 
 ---
 
+### First paid dollar — fulfill in 60s
+
+When Atlas confirms a **paid** Stripe checkout for Friday COT Pack ($18), send the fulfill email immediately. Do **not** send before that confirmation.
+
+| Pin | Exact |
+| --- | --- |
+| Live Note | `http://muonarc.com/notes/friday-cot-pack.html` |
+| Stripe checkout | `https://buy.stripe.com/eVqfZi16bbHibem4l95AQ00` ($18) |
+| Buyer one-pager | `drafts/notes-first-cot-pack-2026-09-04.md` @ main **`0e6ab8a5`** |
+| Buyer CSV | `drafts/cot-pack-2026-09-04.csv` |
+| Fulfill email template | `drafts/notes-first-cot-fulfillment-email-2026-09-01.md` — **do-not-send** until Atlas confirms a paid checkout |
+
+**60s path:** open template → attach one-pager + CSV from main → send from Benjamin’s mail only after Atlas names the paid checkout. No second SKU. No invent checkout URL.
+
+---
+
 ### Steps 1–3 — one-shot approve / post (DO-NOT-POST until Atlas/Benjamin)
 
 Atlas / Benjamin picks zero, one, or more of the three **after** step 0 is done or explicitly waived. For each chosen venue: open the thread URL → paste the matching body below → post only after explicit go. Prefer **http** Note URL until Pages Enforce HTTPS. Do not create Stripe. Do not send fulfill email until a paid checkout.
