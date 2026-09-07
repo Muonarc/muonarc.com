@@ -4,6 +4,8 @@
 
 ```
 CHECKOUT URL: https://buy.stripe.com/eVqfZi16bbHibem4l95AQ00
+LIVE NOTE (http until Pages Enforce HTTPS): http://muonarc.com/notes/friday-cot-pack.html
+WEEK: as-of Tuesday 2026-09-01 / CFTC released Friday 2026-09-04
 ```
 
 **SKU:** Friday COT Pack only (12 liquid futures, CFTC public). Not USA Spending. Not NCUA+Title12. Not the $40 hospital MRF extract. Not GitHub paid storefront. Not Ko-fi. Not Gumroad.
@@ -12,12 +14,20 @@ CHECKOUT URL: https://buy.stripe.com/eVqfZi16bbHibem4l95AQ00
 
 **Atlas context only (do not rewrite these files):**
 - Live Note page: `notes/friday-cot-pack.html` on main (Sep-01 week)
-- Live Note draft: `drafts/notes-first-live-note-cot-pack-2026-09-02.md`
-- Stripe checklist: `drafts/notes-first-cot-stripe-payment-link-2026-09-02.md`
-- Checkout paste-fields: `drafts/notes-first-cot-pack-checkout-2026-08-30.md`
-- Stripe Dashboard click-path: `drafts/notes-first-cot-stripe-clickpath-2026-09-01.md`
-- Pack body this week (HITL): `drafts/notes-first-cot-pack-2026-09-04.md`
-- CSV this week (HITL): `drafts/cot-pack-2026-09-04.csv`
+- Morning HITL card: `drafts/notes-first-cot-borrowed-shares-morning-hitl-2026-09-07.md`
+- Pack body this week: `drafts/notes-first-cot-pack-2026-09-04.md`
+- CSV this week: `drafts/cot-pack-2026-09-04.csv`
+
+---
+
+## Verified attach pins (main `0e6ab8a5`)
+
+| File | Path | Blob | Size |
+| --- | --- | --- | ---: |
+| Buyer one-pager | `drafts/notes-first-cot-pack-2026-09-04.md` | `a8d0280b` | 10735B |
+| Buyer CSV | `drafts/cot-pack-2026-09-04.csv` | `c6503025` | 3088B |
+
+Attach **exactly** these blobs from main `0e6ab8a5` (same pins as the morning HITL fulfill-in-60s card). Do not substitute older Aug pack files.
 
 ---
 
@@ -54,10 +64,10 @@ Rogue Tools
 
 ## 3) What attaches
 
-Attach both of these (HITL sources; not a storefront):
+Attach both of these from main **`0e6ab8a5`**:
 
-1. Markdown brief — `drafts/notes-first-cot-pack-2026-09-04.md`
-2. CSV — `drafts/cot-pack-2026-09-04.csv`
+1. Markdown brief — `drafts/notes-first-cot-pack-2026-09-04.md` — blob **`a8d0280b`** (10735B)
+2. CSV — `drafts/cot-pack-2026-09-04.csv` — blob **`c6503025`** (3088B)
 
 Week as-of **2026-09-01** / released **2026-09-04**. 12 liquid futures. Not a GitHub issue form.
 
@@ -97,7 +107,7 @@ Price: **$18** one-time Friday pack. This is the Payment Link Benjamin created. 
 
 - File: `drafts/notes-first-cot-fulfillment-email-2026-09-01.md`
 - Fulfillment template only. **Do not send until a real paid checkout lands.**
-- HOLD COT-only: no USA/NCUA/Marketplace/nist-nvd/index rolls/cold email.
+- HOLD COT-only: no USA/NCUA/Marketplace/nist-nvd/Pages mutation/cold email/fifth borrowed share.
 - Scoreboard: first paid dollar.
 
 AI-drafted by Rogue. Benjamin / Atlas reviews before any send.
