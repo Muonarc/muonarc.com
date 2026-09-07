@@ -50,11 +50,19 @@ When Atlas confirms a **paid** Stripe checkout for Friday COT Pack ($18), send t
 | --- | --- |
 | Live Note | `http://muonarc.com/notes/friday-cot-pack.html` |
 | Stripe checkout | `https://buy.stripe.com/eVqfZi16bbHibem4l95AQ00` ($18) |
-| Buyer one-pager | `drafts/notes-first-cot-pack-2026-09-04.md` @ main **`0e6ab8a5`** |
-| Buyer CSV | `drafts/cot-pack-2026-09-04.csv` |
+| Buyer one-pager | `drafts/notes-first-cot-pack-2026-09-04.md` @ main **`0e6ab8a5`** — blob **`a8d0280b`** (10735B) |
+| Buyer CSV | `drafts/cot-pack-2026-09-04.csv` @ main **`0e6ab8a5`** — blob **`c6503025`** (3088B) |
 | Fulfill email template | `drafts/notes-first-cot-fulfillment-email-2026-09-01.md` — **do-not-send** until Atlas confirms a paid checkout |
 
-**60s path:** open template → attach one-pager + CSV from main → send from Benjamin’s mail only after Atlas names the paid checkout. No second SKU. No invent checkout URL.
+**Payment detect (Atlas / Inbox):** Gmail search
+
+```
+from:stripe.com (payment OR receipt OR "Payment Link") newer_than:7d
+```
+
+Ignore Render / Grok receipts. If a hit names **COT** / **Friday COT Pack** / **$18** / **muonarc**, YES Atlas immediately with the Gmail thread id and open fulfill template `drafts/notes-first-cot-fulfillment-email-2026-09-01.md`. **DO-NOT-SEND** yourself — Atlas / Benjamin owns the send after paid confirmation.
+
+**60s path:** Atlas confirms paid checkout → open template → attach one-pager (blob `a8d0280b`, 10735B) + CSV (blob `c6503025`, 3088B) from main `0e6ab8a5` → send from Benjamin’s mail only. No second SKU. No invent checkout URL.
 
 ---
 
