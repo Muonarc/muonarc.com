@@ -14,6 +14,16 @@ WEEK: as-of Tuesday 2026-09-01 / CFTC released Friday 2026-09-04
 
 ---
 
+## If you only have 90 seconds
+
+1. **Pages Enforce HTTPS** — fix SSL CN=`*.github.io` vs `muonarc.com`. Until fixed, keep every share URL as `http://muonarc.com/notes/friday-cot-pack.html` (do not paste https Note URLs).
+2. **Paste FXStreet only** (recommended #1 / default if one post) — use ### 1) FXStreet paste body below — then **stop**. Do not open IndexBox / World Perspectives / Titan FX unless you have more time.
+3. **Watch Gmail payment-detect** — `from:stripe.com (payment OR receipt OR "Payment Link") newer_than:7d` (ignore Render / Grok). If COT / Friday COT Pack / $18 / muonarc paid → open fulfill `drafts/notes-first-cot-fulfillment-email-2026-09-01.md` @ notes **`d28dcfd1`**. **DO-NOT-SEND** until Atlas confirms.
+
+Full quartet, Recommended post order, Pages step 0 detail, fulfill-in-60s pins, and paste bodies stay below.
+
+---
+
 ## Ready quartet (do not invent a fifth overnight)
 
 | # | Venue | Thread | Draft path | Notes SHA |
