@@ -17,7 +17,7 @@ CHECKOUT ($18 Friday COT Pack): https://buy.stripe.com/eVqfZi16bbHibem4l95AQ00
 ## Paste — reply / comment (do not post until Atlas says)
 
 ```
-Same CFTC week (as-of 2026-09-01 / released 2026-09-04) packaged for a fixed 12-name Legacy Futures-Only set (CL, NG, GC, SI, ZC, ZS, ZW, ES, NQ, 6E, 6J, BTC): one-pager + CSV with net spec / commercial / non-reportable, 1w + 4w change, and 52w percentile.
+Same CFTC week (as-of 2026-09-01 / released 2026-09-04): corn (ZC) non-commercial net +536,743 after +95,828 on the week — matches Titan FX corn COT. Packaged for a fixed 12-name Legacy Futures-Only set (CL, NG, GC, SI, ZC, ZS, ZW, ES, NQ, 6E, 6J, BTC): one-pager + CSV with net spec / commercial / non-reportable, 1w + 4w change, and 52w percentile.
 
 Note: http://muonarc.com/notes/friday-cot-pack.html
 $18 one-time: https://buy.stripe.com/eVqfZi16bbHibem4l95AQ00
