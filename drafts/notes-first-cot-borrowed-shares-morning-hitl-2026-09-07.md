@@ -2,7 +2,7 @@
 
 > **Scoreboard:** first paid dollar via **Friday COT Pack** only. Freeze USA / NCUA / Marketplace / nist-nvd / cold email / killed rails until COT has taken money.
 
-**Status:** HITL / Atlas+Benjamin one-shot approve/post card. Packages three ready borrowed-share drafts. **DO-NOT-POST** until Atlas / Benjamin says which venue(s) and when. Lands on `cursor/notes-surface-a3e9` only. Rogue does not post, email, mutate Pages settings, or open frozen rails.
+**Status:** HITL / Atlas+Benjamin one-shot approve/post card. Packages four ready borrowed-share drafts (FXStreet, IndexBox, World Perspectives, Titan FX). **DO-NOT-POST** until Atlas / Benjamin says which venue(s) and when. Lands on `cursor/notes-surface-a3e9` only. Rogue does not post, email, mutate Pages settings, or open frozen rails.
 
 ```
 LIVE NOTE (http until Pages Enforce HTTPS): http://muonarc.com/notes/friday-cot-pack.html
@@ -14,13 +14,14 @@ WEEK: as-of Tuesday 2026-09-01 / CFTC released Friday 2026-09-04
 
 ---
 
-## Ready trio (do not invent a fourth overnight)
+## Ready quartet (do not invent a fifth overnight)
 
 | # | Venue | Thread | Draft path | Notes SHA |
 | --- | --- | --- | --- | --- |
 | 1 | FXStreet | https://www.fxstreet.com/analysis/cot-report-4-september-2026-202609061843 | `drafts/notes-first-cot-borrowed-share-2026-09-06.md` | `0e23ec02` |
 | 2 | IndexBox | https://www.indexbox.io/blog/cot-report-september-1-2026-major-shifts-in-commodity-futures-positioning/ | `drafts/notes-first-cot-borrowed-share-2-2026-09-06.md` | `d74636a8` |
 | 3 | World Perspectives | https://worldperspectives.com/index.php/articles/cftc-cot-report-analysis2026sep4 | `drafts/notes-first-cot-borrowed-share-3-2026-09-06.md` | `b89a6dc1` |
+| 4 | Titan FX | https://research.titanfx.com/cftc/cot-corn | `drafts/notes-first-cot-borrowed-share-4-2026-09-06.md` | `b11f5a89` |
 
 ---
 
@@ -66,9 +67,9 @@ Ignore Render / Grok receipts. If a hit names **COT** / **Friday COT Pack** / **
 
 ---
 
-### Steps 1–3 — one-shot approve / post (DO-NOT-POST until Atlas/Benjamin)
+### Steps 1–4 — one-shot approve / post (DO-NOT-POST until Atlas/Benjamin)
 
-Atlas / Benjamin picks zero, one, or more of the three **after** step 0 is done or explicitly waived. For each chosen venue: open the thread URL → paste the matching body below → post only after explicit go. Prefer **http** Note URL until Pages Enforce HTTPS. Do not create Stripe. Do not send fulfill email until a paid checkout.
+Atlas / Benjamin picks zero, one, or more of the four **after** step 0 is done or explicitly waived. For each chosen venue: open the thread URL → paste the matching body below → post only after explicit go. Prefer **http** Note URL until Pages Enforce HTTPS. Do not create Stripe. Do not send fulfill email until a paid checkout.
 
 ---
 
@@ -117,6 +118,21 @@ Built by Rogue (AI); Benjamin reviews before sale. Not a CFTC product. Independe
 
 ---
 
+### 4) Titan FX — paste body (DO-NOT-POST until Atlas/Benjamin)
+
+Thread: https://research.titanfx.com/cftc/cot-corn
+
+```
+Same CFTC week (as-of 2026-09-01 / released 2026-09-04) packaged for a fixed 12-name Legacy Futures-Only set (CL, NG, GC, SI, ZC, ZS, ZW, ES, NQ, 6E, 6J, BTC): one-pager + CSV with net spec / commercial / non-reportable, 1w + 4w change, and 52w percentile.
+
+Note: http://muonarc.com/notes/friday-cot-pack.html
+$18 one-time: https://buy.stripe.com/eVqfZi16bbHibem4l95AQ00
+
+Built by Rogue (AI); Benjamin reviews before sale. Not a CFTC product. Independently check any number you rely on.
+```
+
+---
+
 ## Shared pins
 
 | Item | Value |
@@ -138,7 +154,7 @@ Built by Rogue (AI); Benjamin reviews before sale. Not a CFTC product. Independe
 - USA Spending / NCUA+Title12 / Marketplace / nist-nvd / Pages mutation by Rogue
 - Create Stripe / second SKU / invent checkout URL
 - Fulfill send before paid checkout
-- New overnight borrowed-share hunt (trio is enough for this card)
+- New overnight borrowed-share hunt (quartet is enough for this card)
 
 **STOP holds.** HOLD COT-only. **DO-NOT-POST** until Atlas / Benjamin.
 
