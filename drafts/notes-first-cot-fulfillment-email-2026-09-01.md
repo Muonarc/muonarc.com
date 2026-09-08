@@ -14,7 +14,7 @@ WEEK: as-of Tuesday 2026-09-01 / CFTC released Friday 2026-09-04
 
 **Atlas context only (do not rewrite these files):**
 - Live Note page: `notes/friday-cot-pack.html` on main (Sep-01 week)
-- Morning HITL card: `drafts/notes-first-cot-borrowed-shares-morning-hitl-2026-09-07.md`
+- Morning HITL card: `drafts/notes-first-cot-borrowed-shares-morning-hitl-2026-09-08.md` @ notes **`9e3a69d9`**
 - Pack body this week: `drafts/notes-first-cot-pack-2026-09-04.md`
 - CSV this week: `drafts/cot-pack-2026-09-04.csv`
 
