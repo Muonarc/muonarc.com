@@ -5,7 +5,7 @@
 ```
 CHECKOUT URL: https://buy.stripe.com/eVqfZi16bbHibem4l95AQ00
 LIVE NOTE (http until Pages Enforce HTTPS): http://muonarc.com/notes/friday-cot-pack.html
-WEEK: as-of Tuesday 2026-09-01 / CFTC released Friday 2026-09-04
+WEEK: as-of Tuesday 2026-09-08 / CFTC released Friday 2026-09-11
 ```
 
 **SKU:** Friday COT Pack only (12 liquid futures, CFTC public). Not USA Spending. Not NCUA+Title12. Not the $40 hospital MRF extract. Not GitHub paid storefront. Not Ko-fi. Not Gumroad.
@@ -13,28 +13,27 @@ WEEK: as-of Tuesday 2026-09-01 / CFTC released Friday 2026-09-04
 **AI disclosure (Rogue):** An AI prepared this pack and this template. Benjamin / Atlas reviews before any send.
 
 **Atlas context only (do not rewrite these files):**
-- Live Note page: `notes/friday-cot-pack.html` on main (Sep-01 week)
-- Morning HITL card: `drafts/notes-first-cot-borrowed-shares-morning-hitl-2026-09-08.md` @ notes **`9e3a69d9`**
-- Pack body this week: `drafts/notes-first-cot-pack-2026-09-04.md`
-- CSV this week: `drafts/cot-pack-2026-09-04.csv`
+- Live Note page: `notes/friday-cot-pack.html` on main (Sep-08 week / released Sep-11)
+- Pack body this week: `drafts/notes-first-cot-pack-2026-09-11.md`
+- CSV this week: `drafts/cot-pack-2026-09-11.csv`
 
 ---
 
-## Verified attach pins (main `0e6ab8a5`)
+## Verified attach pins (main `47d9fb6a`)
 
 | File | Path | Blob | Size |
 | --- | --- | --- | ---: |
-| Buyer one-pager | `drafts/notes-first-cot-pack-2026-09-04.md` | `a8d0280b` | 10735B |
-| Buyer CSV | `drafts/cot-pack-2026-09-04.csv` | `c6503025` | 3088B |
+| Buyer one-pager | `drafts/notes-first-cot-pack-2026-09-11.md` | `d764c6a7` | 10871B |
+| Buyer CSV | `drafts/cot-pack-2026-09-11.csv` | `d9c4f82f` | 3081B |
 
-Attach **exactly** these blobs from main `0e6ab8a5` (same pins as the morning HITL fulfill-in-60s card). Do not substitute older Aug pack files.
+Attach **exactly** these blobs from main `47d9fb6a`. Do not substitute older Sep-04 / Aug pack files.
 
 ---
 
 ## 1) Subject line
 
 ```
-Your Friday COT Pack — 12 liquid futures (as-of 2026-09-01 / released 2026-09-04)
+Your Friday COT Pack — 12 liquid futures (as-of 2026-09-08 / released 2026-09-11)
 ```
 
 ---
@@ -50,7 +49,7 @@ Thanks for buying this week's Friday COT Pack ($18) from Rogue Tools.
 
 Attached are the Markdown brief and the CSV for the 12 liquid futures (CL, NG, GC, SI, ZC, ZS, ZW, ES, NQ, 6E, 6J, BTC) from CFTC public Legacy Futures-Only COT.
 
-Week as-of Tuesday 2026-09-01 / released Friday 2026-09-04.
+Week as-of Tuesday 2026-09-08 / released Friday 2026-09-11.
 
 An AI prepared this pack. I (Benjamin) review before it goes out.
 
@@ -64,12 +63,12 @@ Rogue Tools
 
 ## 3) What attaches
 
-Attach both of these from main **`0e6ab8a5`**:
+Attach both of these from main **`47d9fb6a`**:
 
-1. Markdown brief — `drafts/notes-first-cot-pack-2026-09-04.md` — blob **`a8d0280b`** (10735B)
-2. CSV — `drafts/cot-pack-2026-09-04.csv` — blob **`c6503025`** (3088B)
+1. Markdown brief — `drafts/notes-first-cot-pack-2026-09-11.md` — blob **`d764c6a7`** (10871B)
+2. CSV — `drafts/cot-pack-2026-09-11.csv` — blob **`d9c4f82f`** (3081B)
 
-Week as-of **2026-09-01** / released **2026-09-04**. 12 liquid futures. Not a GitHub issue form.
+Week as-of **2026-09-08** / released **2026-09-11**. 12 liquid futures. Not a GitHub issue form.
 
 ---
 
