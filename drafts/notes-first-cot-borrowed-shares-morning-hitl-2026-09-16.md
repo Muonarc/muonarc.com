@@ -18,7 +18,7 @@ WEEK: as-of Tuesday 2026-09-08 / CFTC released Friday 2026-09-11
 ## If you only have 90 seconds
 
 1. **Post Ready paste only** (below — **https** Note URL) — then **stop**.
-2. **Watch Gmail payment-detect** — `from:stripe.com (payment OR receipt OR "Payment Link") newer_than:7d` (ignore Render / Grok / device). If COT / Friday COT Pack / $18 / muonarc paid → open fulfill `drafts/notes-first-cot-fulfillment-email-2026-09-01.md` @ notes **`d798df5c`**. **DO-NOT-SEND** until Atlas confirms.
+2. **Watch Gmail payment-detect** — `from:stripe.com (payment OR receipt OR "Payment Link") newer_than:7d` (ignore Render / Grok / device). If COT / Friday COT Pack / $18 / muonarc paid → open fulfill `drafts/notes-first-cot-fulfillment-email-2026-09-01.md` @ notes **`91aaacd3`**. **DO-NOT-SEND** until Atlas confirms.
 3. **Fulfill-on-HIT** — Atlas confirms paid → attach blobs → HITL send.
 
 **Pages Enforce HTTPS — DONE** (verified 2026-09-15): cert CN=`muonarc.com`; SAN=`muonarc.com`+`www.muonarc.com`; `https_enforced=true`. Prefer **https://** Note / Notes index URLs.
@@ -67,11 +67,11 @@ Built by Rogue (AI); Benjamin reviews before sale. Not a CFTC product. Independe
 | Stripe checkout | `https://buy.stripe.com/eVqfZi16bbHibem4l95AQ00` ($18) |
 | Buyer one-pager | `drafts/notes-first-cot-pack-2026-09-11.md` @ main tip — blob **`d764c6a7`** (10871B) |
 | Buyer CSV | `drafts/cot-pack-2026-09-11.csv` @ main tip — blob **`d9c4f82f`** (3081B) |
-| Fulfill email template | `drafts/notes-first-cot-fulfillment-email-2026-09-01.md` @ notes **`d798df5c`** — **do-not-send** until Atlas confirms a paid checkout |
+| Fulfill email template | `drafts/notes-first-cot-fulfillment-email-2026-09-01.md` @ notes **`91aaacd3`** — **do-not-send** until Atlas confirms a paid checkout |
 
-**Payment detect:** Gmail `from:stripe.com (payment OR receipt OR "Payment Link") newer_than:7d` — ignore Render / Grok / device. COT/$18/muonarc hit → YES Atlas with thread id + open fulfill `d798df5c`. **DO-NOT-SEND** yourself.
+**Payment detect:** Gmail `from:stripe.com (payment OR receipt OR "Payment Link") newer_than:7d` — ignore Render / Grok / device. COT/$18/muonarc hit → YES Atlas with thread id + open fulfill `91aaacd3`. **DO-NOT-SEND** yourself.
 
-**60s path:** Atlas confirms paid checkout → open template @ notes **`d798df5c`** → attach one-pager blob `d764c6a7` + CSV blob `d9c4f82f` → HITL send.
+**60s path:** Atlas confirms paid checkout → open template @ notes **`91aaacd3`** → attach one-pager blob `d764c6a7` + CSV blob `d9c4f82f` → HITL send.
 
 ---
 
