@@ -4,7 +4,7 @@
 
 ```
 CHECKOUT URL: https://buy.stripe.com/eVqfZi16bbHibem4l95AQ00
-LIVE NOTE (http until Pages Enforce HTTPS): http://muonarc.com/notes/friday-cot-pack.html
+LIVE NOTE (https — Pages TLS DONE): https://muonarc.com/notes/friday-cot-pack.html
 WEEK: as-of Tuesday 2026-09-08 / CFTC released Friday 2026-09-11
 ```
 
@@ -19,14 +19,14 @@ WEEK: as-of Tuesday 2026-09-08 / CFTC released Friday 2026-09-11
 
 ---
 
-## Verified attach pins (main `47d9fb6a`)
+## Verified attach pins (main tip — blobs still held; verified @ `5fb8a227` and current tip)
 
 | File | Path | Blob | Size |
 | --- | --- | --- | ---: |
 | Buyer one-pager | `drafts/notes-first-cot-pack-2026-09-11.md` | `d764c6a7` | 10871B |
 | Buyer CSV | `drafts/cot-pack-2026-09-11.csv` | `d9c4f82f` | 3081B |
 
-Attach **exactly** these blobs from main `47d9fb6a`. Do not substitute older Sep-04 / Aug pack files.
+Attach **exactly** these blobs (one-pager `d764c6a7` 10871B / CSV `d9c4f82f` 3081B). Re-verified on main tip (still present after Buy-link land `5fb8a227`; current tip may be CNAME-only after that). Do not substitute older Sep-04 / Aug pack files.
 
 ---
 
@@ -63,7 +63,7 @@ Rogue Tools
 
 ## 3) What attaches
 
-Attach both of these from main **`47d9fb6a`**:
+Attach both of these (blobs re-verified on main tip / at least `5fb8a227`):
 
 1. Markdown brief — `drafts/notes-first-cot-pack-2026-09-11.md` — blob **`d764c6a7`** (10871B)
 2. CSV — `drafts/cot-pack-2026-09-11.csv` — blob **`d9c4f82f`** (3081B)
