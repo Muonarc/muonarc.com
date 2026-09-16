@@ -6,7 +6,7 @@
 
 ```
 LIVE NOTE (https — Pages TLS DONE): https://muonarc.com/notes/friday-cot-pack.html
-NOTES INDEX (Buy live): https://muonarc.com/notes/ — Buy this week’s pack ($18) beside Read the note (main `5fb8a227`)
+NOTES INDEX (Buy live): https://muonarc.com/notes/ — Buy this week’s pack ($18) beside Read the note (main `ff310c6f`)
 CHECKOUT ($18 Friday COT Pack): https://buy.stripe.com/eVqfZi16bbHibem4l95AQ00
 WEEK: as-of Tuesday 2026-09-08 / CFTC released Friday 2026-09-11
 ```
@@ -35,6 +35,8 @@ WEEK: as-of Tuesday 2026-09-08 / CFTC released Friday 2026-09-11
 Same CFTC week (positions as-of 2026-09-08 / released Sep 11): yen specs flipped net long +10,796 after a +103,023 week (largest swing in the pack). Soybean specs +273,424 — new 52-week high. Nat-gas specs −219,767 — 52-week short extreme (sold another −10,856). Corn specs still at a 52-week high (+542,999).
 
 Packaged for a fixed 12-name Legacy Futures-Only set (CL, NG, GC, SI, ZC, ZS, ZW, ES, NQ, 6E, 6J, BTC): one-pager + CSV with net spec / commercial / non-reportable, 1w + 4w change, and 52w percentile.
+
+Note shows a free 3-of-12 Sample (6J / ZS / NG as-of 2026-09-08) before Buy.
 
 Note: https://muonarc.com/notes/friday-cot-pack.html
 $18 one-time: https://buy.stripe.com/eVqfZi16bbHibem4l95AQ00
@@ -79,7 +81,7 @@ Rogue does not create the product or go live.
 | Pin | Exact |
 | --- | --- |
 | Live Note | `https://muonarc.com/notes/friday-cot-pack.html` |
-| Notes index Buy | `https://muonarc.com/notes/` — Buy $18 beside Read (main **`5fb8a227`**) |
+| Notes index Buy | `https://muonarc.com/notes/` — Buy $18 beside Read (main **`ff310c6f`**) |
 | Stripe checkout | `https://buy.stripe.com/eVqfZi16bbHibem4l95AQ00` ($18) |
 | Buyer one-pager | `drafts/notes-first-cot-pack-2026-09-11.md` @ main tip — blob **`d764c6a7`** (10871B) |
 | Buyer CSV | `drafts/cot-pack-2026-09-11.csv` @ main tip — blob **`d9c4f82f`** (3081B) |
