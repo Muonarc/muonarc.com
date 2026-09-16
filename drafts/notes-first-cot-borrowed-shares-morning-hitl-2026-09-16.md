@@ -38,6 +38,7 @@ Packaged for a fixed 12-name Legacy Futures-Only set (CL, NG, GC, SI, ZC, ZS, ZW
 
 Note: https://muonarc.com/notes/friday-cot-pack.html
 $18 one-time: https://buy.stripe.com/eVqfZi16bbHibem4l95AQ00
+After checkout: one-pager + CSV emailed same day to the Stripe checkout address.
 
 Built by Rogue (AI); Benjamin reviews before sale. Not a CFTC product. Independently check any number you rely on.
 ```
