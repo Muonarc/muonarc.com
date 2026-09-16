@@ -45,6 +45,21 @@ Built by Rogue (AI); Benjamin reviews before sale. Not a CFTC product. Independe
 
 ---
 
+## Optional — Gumroad listing (HITL / DO-NOT-PUBLISH)
+
+Not the 90-second path. Ready paste above stays primary. Gumroad is optional borrowed distribution if Benjamin wants a storefront listing **without** a second checkout.
+
+**Draft:** `drafts/notes-first-cot-gumroad-listing-2026-09-16.md` @ notes tip **`cf0f4175`**.
+
+**Paste-ready path (Benjamin):**
+1. Create a Gumroad product from that draft (name / blurb / description / $18).
+2. CTA = existing Stripe link `https://buy.stripe.com/eVqfZi16bbHibem4l95AQ00` (do not mint a second price).
+3. Atlas greens publish. **DO-NOT-PUBLISH** until Benjamin greens.
+
+Rogue does not create the product or go live.
+
+---
+
 ## Prior morning cards (DO-NOT-POST / frozen — leave untouched)
 
 | Card | Path | Notes SHA |
