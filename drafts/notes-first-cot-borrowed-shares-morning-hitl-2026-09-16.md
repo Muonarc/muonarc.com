@@ -2,11 +2,11 @@
 
 > **Scoreboard:** first paid dollar via **Friday COT Pack** only. Freeze USA / NCUA / Marketplace / nist-nvd / cold email / killed rails until COT has taken money.
 
-**Status:** HITL / Atlas+Benjamin morning card for **2026-09-16**. **NEW file** — does **not** refresh frozen Sep-14 @ notes SHA `e38b431a` (or older Sep-13/11/10/9/8/7 cards). **DO-NOT-POST** until Atlas / Benjamin says. Rogue does not post, email, mutate Pages, or open frozen rails.
+**Status:** HITL / Atlas+Benjamin morning card for **2026-09-16**. Surgical HTTPS refresh on this file only — does **not** refresh frozen Sep-14 @ notes SHA `e38b431a` (or older Sep-13/11/10/9/8/7 cards). **DO-NOT-POST** until Atlas / Benjamin says. Rogue does not post, email, or open frozen rails.
 
 ```
-LIVE NOTE (http until Pages Enforce HTTPS): http://muonarc.com/notes/friday-cot-pack.html
-NOTES INDEX (Buy live): http://muonarc.com/notes/ — Buy this week’s pack ($18) beside Read the note (main `5fb8a227`)
+LIVE NOTE (https — Pages TLS DONE): https://muonarc.com/notes/friday-cot-pack.html
+NOTES INDEX (Buy live): https://muonarc.com/notes/ — Buy this week’s pack ($18) beside Read the note (main `5fb8a227`)
 CHECKOUT ($18 Friday COT Pack): https://buy.stripe.com/eVqfZi16bbHibem4l95AQ00
 WEEK: as-of Tuesday 2026-09-08 / CFTC released Friday 2026-09-11
 ```
@@ -17,9 +17,11 @@ WEEK: as-of Tuesday 2026-09-08 / CFTC released Friday 2026-09-11
 
 ## If you only have 90 seconds
 
-1. **Pages Enforce HTTPS** — fix SSL CN=`*.github.io` vs `muonarc.com`. Until fixed, keep every share URL as `http://muonarc.com/notes/friday-cot-pack.html` (do not paste https Note URLs). Morning HITL only — Rogue does not mutate Pages overnight.
-2. **Post Ready paste only** (below) — then **stop**.
-3. **Watch Gmail payment-detect** — `from:stripe.com (payment OR receipt OR "Payment Link") newer_than:7d` (ignore Render / Grok / device). If COT / Friday COT Pack / $18 / muonarc paid → open fulfill `drafts/notes-first-cot-fulfillment-email-2026-09-01.md` @ notes **`d798df5c`**. **DO-NOT-SEND** until Atlas confirms.
+1. **Post Ready paste only** (below — **https** Note URL) — then **stop**.
+2. **Watch Gmail payment-detect** — `from:stripe.com (payment OR receipt OR "Payment Link") newer_than:7d` (ignore Render / Grok / device). If COT / Friday COT Pack / $18 / muonarc paid → open fulfill `drafts/notes-first-cot-fulfillment-email-2026-09-01.md` @ notes **`d798df5c`**. **DO-NOT-SEND** until Atlas confirms.
+3. **Fulfill-on-HIT** — Atlas confirms paid → attach blobs → HITL send.
+
+**Pages Enforce HTTPS — DONE** (verified 2026-09-15): cert CN=`muonarc.com`; SAN=`muonarc.com`+`www.muonarc.com`; `https_enforced=true`. Prefer **https://** Note / Notes index URLs.
 
 ---
 
@@ -34,7 +36,7 @@ Same CFTC week (positions as-of 2026-09-08 / released Sep 11): yen specs flipped
 
 Packaged for a fixed 12-name Legacy Futures-Only set (CL, NG, GC, SI, ZC, ZS, ZW, ES, NQ, 6E, 6J, BTC): one-pager + CSV with net spec / commercial / non-reportable, 1w + 4w change, and 52w percentile.
 
-Note: http://muonarc.com/notes/friday-cot-pack.html
+Note: https://muonarc.com/notes/friday-cot-pack.html
 $18 one-time: https://buy.stripe.com/eVqfZi16bbHibem4l95AQ00
 
 Built by Rogue (AI); Benjamin reviews before sale. Not a CFTC product. Independently check any number you rely on.
@@ -60,8 +62,8 @@ Built by Rogue (AI); Benjamin reviews before sale. Not a CFTC product. Independe
 
 | Pin | Exact |
 | --- | --- |
-| Live Note | `http://muonarc.com/notes/friday-cot-pack.html` |
-| Notes index Buy | `http://muonarc.com/notes/` — Buy $18 beside Read (main **`5fb8a227`**) |
+| Live Note | `https://muonarc.com/notes/friday-cot-pack.html` |
+| Notes index Buy | `https://muonarc.com/notes/` — Buy $18 beside Read (main **`5fb8a227`**) |
 | Stripe checkout | `https://buy.stripe.com/eVqfZi16bbHibem4l95AQ00` ($18) |
 | Buyer one-pager | `drafts/notes-first-cot-pack-2026-09-11.md` @ main tip — blob **`d764c6a7`** (10871B) |
 | Buyer CSV | `drafts/cot-pack-2026-09-11.csv` @ main tip — blob **`d9c4f82f`** (3081B) |
@@ -73,15 +75,9 @@ Built by Rogue (AI); Benjamin reviews before sale. Not a CFTC product. Independe
 
 ---
 
-## Pages Enforce HTTPS (step 0 detail)
+## Pages Enforce HTTPS — DONE
 
-GitHub Pages currently serves a `*.github.io` cert for `muonarc.com`. Until **Enforce HTTPS** is on and the cert validates, keep share / paste URLs as:
-
-```
-http://muonarc.com/notes/friday-cot-pack.html
-```
-
-Rogue does **not** mutate Pages settings overnight (morning HITL only).
+Verified 2026-09-15 PT: GitHub Pages LE cert **approved** for `muonarc.com` + `www.muonarc.com` (CN=`muonarc.com`; SAN matches); `https_enforced=true`. Live `https://muonarc.com/notes/friday-cot-pack.html` returns 200 with clean TLS. Prefer **https://** share / paste URLs.
 
 ---
 
@@ -89,13 +85,13 @@ Rogue does **not** mutate Pages settings overnight (morning HITL only).
 
 - Post without Atlas/Benjamin go
 - Refresh frozen Sep-14 @ `e38b431a` (or older morning cards)
-- Paste `https://muonarc.com/...` before Pages cert is fixed
+- Prefer https Note URLs — Pages TLS is fixed (do not paste stale plain-http Note links)
 - Cold email / Alera / business outbound / r/datasets / DIP / OpenFEMA / NHC
-- USA Spending / NCUA+Title12 / Marketplace / nist-nvd / Pages mutation by Rogue
+- USA Spending / NCUA+Title12 / Marketplace / nist-nvd / Pages mutation by Rogue (TLS already repaired)
 - Create Stripe / second SKU / invent checkout URL
 - Fulfill send before paid checkout
-- Extra borrowed-share drafts after this card lands (FREEZE packaging)
+- Extra borrowed-share drafts after this card (FREEZE packaging)
 
 **STOP holds.** HOLD COT-only. **DO-NOT-POST** until Atlas / Benjamin.
 
-AI-drafted by Rogue. Benjamin / Atlas owns Pages HTTPS HITL and any human post.
+AI-drafted by Rogue. Benjamin / Atlas owns any human post.
