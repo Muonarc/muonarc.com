@@ -62,6 +62,21 @@ Rogue does not create the product or go live.
 
 ---
 
+## Optional — Hugging Face dataset card (HITL / DO-NOT-PUBLISH)
+
+Not the 90-second path. Ready paste above stays primary. Hugging Face is optional borrowed distribution if Benjamin wants a dataset-card listing that points at the live Sample + existing Stripe Buy.
+
+**Draft:** `drafts/notes-first-cot-hf-dataset-card-2026-09-16.md` @ notes tip **`156ee5da`**.
+
+**Paste-ready path (Benjamin):**
+1. Create an HF dataset from that draft (README / dataset card; account HITL first).
+2. CTA = existing Stripe Buy `https://buy.stripe.com/eVqfZi16bbHibem4l95AQ00` (do not mint a second price) + live Sample Note.
+3. Atlas greens publish. **DO-NOT-PUBLISH** until Benjamin greens.
+
+Rogue does not create the HF repo or go live.
+
+---
+
 ## Prior morning cards (DO-NOT-POST / frozen — leave untouched)
 
 | Card | Path | Notes SHA |
