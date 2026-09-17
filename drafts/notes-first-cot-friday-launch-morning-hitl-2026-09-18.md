@@ -76,7 +76,7 @@ Cite draft SHAs only — **do not rewrite** draft blobs. Benjamin HITL each chan
 | 3 | Show HN | `8796efcf` |
 | 4 | Twitter/X | `eb0a0f7c` |
 
-**Full order** (mid/late pack and the rest): runbook v3 `drafts/notes-first-cot-friday-launch-runbook-v3-2026-09-17.md` @ notes **`213c8b5a`**.
+**Full order** (mid/late pack and the rest): runbook v4 `drafts/notes-first-cot-friday-launch-runbook-v4-2026-09-17.md` @ notes **`51e19f9c`** (supersedes v3 `213c8b5a`).
 
 **Defer** mid/late pack unless Benjamin greens more time.
 
@@ -102,7 +102,7 @@ Cite draft SHAs only — **do not rewrite** draft blobs. Benjamin HITL each chan
 
 - **Scoreboard:** first paid dollar **COT-only**.
 - **FREEZE:** USA / NCUA / Marketplace / nist-nvd / cold email / Reddit.
-- **FREEZE untouched this commit:** tip morning HITL `9fecc45a`; fulfill `91aaacd3`; runbook v3 `213c8b5a`; all channel drafts through YouTube (and Futures.io `f5dbb0aa` — cite only); main `606b300a`.
+- **FREEZE untouched this commit:** tip morning HITL `9fecc45a`; fulfill `91aaacd3`; prior runbooks (v3 `213c8b5a` superseded — cite only; v4 `51e19f9c` content cite only); all channel drafts through YouTube (and Futures.io `f5dbb0aa` — cite only); main `606b300a`.
 
 ---
 
@@ -124,7 +124,7 @@ Cite draft SHAs only — **do not rewrite** draft blobs. Benjamin HITL each chan
 ## Freeze / Out
 
 - Post / publish without Benjamin go
-- Modify frozen Sep-16 tip `9fecc45a` (or fulfill / runbook v3 / channel drafts / main)
+- Modify frozen Sep-16 tip `9fecc45a` (or fulfill / prior runbooks / channel drafts / main)
 - Prefer https Note URLs
 - Cold email / Reddit / USA / NCUA / Marketplace / nist-nvd
 - Create Stripe / second SKU / invent checkout URL
