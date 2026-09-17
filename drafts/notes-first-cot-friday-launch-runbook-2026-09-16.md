@@ -1,0 +1,92 @@
+# Friday COT Pack — launch runbook (2026-09-16)
+
+> **DO-NOT-POST / DO-NOT-PUBLISH.**
+>
+> Per-channel HITL gate — **Benjamin** approves before anything leaves `drafts/`.
+> This file alone does **not** authorize post, publish, pay, email, cold email, or killed rails.
+> Atlas / Benjamin HITL per channel. Rogue does not go live from this runbook.
+
+---
+
+## Live verify (before any channel paste/publish)
+
+Do these checks Friday morning **before** the first channel leave-drafts. All must pass.
+
+| Check | Target | Pass? |
+| --- | --- | --- |
+| Live Sample (6J / ZS / NG) visible | https://muonarc.com/notes/friday-cot-pack.html | ☐ |
+| Stripe Buy $18 | https://buy.stripe.com/eVqfZi16bbHibem4l95AQ00 | ☐ |
+| Fulfill promise | one-pager + CSV emailed **same day** to Stripe checkout email | ☐ |
+| main pin (Sample-tease meta) | `606b300a` — **do not change main from this runbook** | ☐ |
+
+If any row fails: **stop**. Do not paste or publish any channel draft.
+
+```
+LIVE NOTE: https://muonarc.com/notes/friday-cot-pack.html
+CHECKOUT ($18 one-time): https://buy.stripe.com/eVqfZi16bbHibem4l95AQ00
+FULFILL: one-pager + CSV same day to checkout email
+MAIN PIN: 606b300a (Sample-tease meta) — untouched by this runbook
+```
+
+---
+
+## Friday-morning posting order (Benjamin HITL)
+
+Suggested sequence only. **Each channel needs explicit Benjamin / Atlas go before paste or publish.** Cite ready drafts by commit SHA (do not rewrite those blobs from this runbook).
+
+| # | Channel | Commit | Draft path | Go? |
+| --- | --- | --- | --- | --- |
+| 1 | Gumroad | `cf0f4175` | `drafts/notes-first-cot-gumroad-listing-2026-09-16.md` | ☐ |
+| 2 | Hugging Face | `156ee5da` | `drafts/notes-first-cot-hf-dataset-card-2026-09-16.md` | ☐ |
+| 3 | PyPI | `23ef95e6` | `drafts/notes-first-cot-pypi-listing-2026-09-16.md` | ☐ |
+| 4 | npm | `3faeb6b1` | `drafts/notes-first-cot-npm-listing-2026-09-16.md` | ☐ |
+| 5 | Product Hunt | `96017790` | `drafts/notes-first-cot-producthunt-listing-2026-09-16.md` | ☐ |
+| 6 | Show HN | `8796efcf` | `drafts/notes-first-cot-show-hn-2026-09-16.md` | ☐ |
+| 7 | Indie Hackers | `1e105334` | `drafts/notes-first-cot-indie-hackers-2026-09-16.md` | ☐ |
+| 8 | Dev.to | `9213f656` | `drafts/notes-first-cot-devto-2026-09-16.md` | ☐ |
+| 9 | Hashnode | `6e63daa0` | `drafts/notes-first-cot-hashnode-2026-09-16.md` | ☐ |
+| 10 | Medium | `a10a3ae4` | `drafts/notes-first-cot-medium-2026-09-16.md` | ☐ |
+| 11 | Substack | `6709f174` | `drafts/notes-first-cot-substack-2026-09-16.md` | ☐ |
+
+**Per channel:** open the cited draft → Benjamin greens → paste/publish on that rail only → mark Go. Skip or defer any channel without an explicit go. Do not batch-publish.
+
+---
+
+## Suggested order rationale (short)
+
+1. **Borrowed storefronts / catalogs first** (Gumroad → HF → PyPI → npm) — audiences already browse for paid packs / datasets / packages; low ceremony once live verify passes.
+2. **Launch venues mid-morning** (Product Hunt → Show HN → Indie Hackers) — PH favors early US Friday; Show HN / IH work better when the live Note + Stripe are already proven and storefronts exist as proof points.
+3. **Longer articles later** (Dev.to → Hashnode → Medium → Substack) — after listings and launch posts are live so links and CTAs resolve cleanly.
+
+Reorder if Benjamin prefers; the gate is still one explicit go per channel.
+
+---
+
+## FREEZE (untouched by this runbook)
+
+| Pin | SHA | Role |
+| --- | --- | --- |
+| Morning HITL tip | `9fecc45a` | tip — do not rewrite |
+| Fulfill email | `91aaacd3` | fulfill — do not rewrite / do not send from here |
+| main (Sample-tease meta) | `606b300a` | do not change main from this runbook |
+
+Also: do **not** rewrite or republish any cited channel draft blob above. Cite only.
+
+---
+
+## Payment-detect / first-paid-dollar scoreboard
+
+- Scoreboard is **COT-only** (Friday COT Pack).
+- Stay quiet to Benjamin unless a real paid Stripe hit.
+- Freeze USA / NCUA / Marketplace / nist-nvd / cold email / killed rails until COT has taken money.
+- This runbook does not arm payment-detect or authorize outreach.
+
+---
+
+## Authorization (explicit)
+
+**This runbook does not authorize posting.**
+
+- Atlas / Benjamin HITL **per channel**.
+- Nothing leaves `drafts/` without Benjamin’s explicit go for that channel.
+- No post, publish, pay, email, cold email, or killed rails from this file alone.
