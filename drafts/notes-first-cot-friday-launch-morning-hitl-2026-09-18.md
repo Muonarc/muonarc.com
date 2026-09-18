@@ -76,11 +76,11 @@ Cite draft SHAs only — **do not rewrite** draft blobs. Benjamin HITL each chan
 | 3 | Show HN | `8796efcf` |
 | 4 | Twitter/X | `eb0a0f7c` |
 
-**Full order** (mid/late pack and the rest): runbook v12 `drafts/notes-first-cot-friday-launch-runbook-v12-2026-09-17.md` @ notes **`97cbbd2b`** (supersedes v11 `3ee6945b` / v10 `add75747` / v8 `7dc9a351` / v7 `bcfccce4` / v6 `b21209fb` / v5 `aefdb730` / v4 `51e19f9c` / v3 `213c8b5a` — cite only).
+**Full order** (mid/late pack and the rest): runbook v13 `drafts/notes-first-cot-friday-launch-runbook-v13-2026-09-17.md` @ notes **`f2b59c3b`** (supersedes v12 `97cbbd2b` / v11 `3ee6945b` / v10 `add75747` / v8 `7dc9a351` / v7 `bcfccce4` / v6 `b21209fb` / v5 `aefdb730` / v4 `51e19f9c` / v3 `213c8b5a` — cite only).
 
 **Defer** mid/late pack unless Benjamin greens more time.
 
-**Optional mid/later pack (forum/quant pack — not first-wave):** Futures.io `f5dbb0aa` → Trade2Win `739b3932` → Elite Trader `80dd5e3d` → QuantConnect `c76aea1d` → NinjaTrader `468e18f5` → BabyPips `45a19f38` → Forex Factory `4080e743` → TradeStation `bafbd51e` → Multicharts `518857ff` (`17f0d156` sibling) — drafted but **deferred** from first-wave unless Benjamin expands. Cite only; do not rewrite those blobs.
+**Optional mid/later pack (forum/quant pack — not first-wave):** Futures.io `f5dbb0aa` → Trade2Win `739b3932` → Elite Trader `80dd5e3d` → QuantConnect `c76aea1d` → NinjaTrader `468e18f5` → BabyPips `45a19f38` → Forex Factory `4080e743` → TradeStation `bafbd51e` → Multicharts `518857ff` (`17f0d156` sibling) → Sierra Chart `038bb9c9` — drafted but **deferred** from first-wave unless Benjamin expands. Cite only; do not rewrite those blobs.
 
 ---
 
@@ -102,7 +102,7 @@ Cite draft SHAs only — **do not rewrite** draft blobs. Benjamin HITL each chan
 
 - **Scoreboard:** first paid dollar **COT-only**.
 - **FREEZE:** USA / NCUA / Marketplace / nist-nvd / cold email / Reddit.
-- **FREEZE untouched this commit:** tip morning HITL `9fecc45a`; fulfill `91aaacd3`; runbook v12 `97cbbd2b` content (cite only); prior runbooks (v11 `3ee6945b` / v10 `add75747` / v8 `7dc9a351` / v7 `bcfccce4` / v6 `b21209fb` / v5 `aefdb730` / v4 `51e19f9c` / v3 `213c8b5a` superseded — cite only); all channel drafts through Multicharts `518857ff` (forum/quant pack Futures.io `f5dbb0aa` / Trade2Win `739b3932` / Elite Trader `80dd5e3d` / QuantConnect `c76aea1d` / NinjaTrader `468e18f5` / BabyPips `45a19f38` / Forex Factory `4080e743` / TradeStation `bafbd51e` / Multicharts `518857ff` / `17f0d156` — cite only); main `606b300a`.
+- **FREEZE untouched this commit:** tip morning HITL `9fecc45a`; fulfill `91aaacd3`; runbook v13 `f2b59c3b` content (cite only); prior runbooks (v12 `97cbbd2b` / v11 `3ee6945b` / v10 `add75747` / v8 `7dc9a351` / v7 `bcfccce4` / v6 `b21209fb` / v5 `aefdb730` / v4 `51e19f9c` / v3 `213c8b5a` superseded — cite only); all channel drafts through Sierra Chart `038bb9c9` (forum/quant pack Futures.io `f5dbb0aa` / Trade2Win `739b3932` / Elite Trader `80dd5e3d` / QuantConnect `c76aea1d` / NinjaTrader `468e18f5` / BabyPips `45a19f38` / Forex Factory `4080e743` / TradeStation `bafbd51e` / Multicharts `518857ff` / `17f0d156` / Sierra Chart `038bb9c9` — cite only); main `606b300a`.
 
 ---
 
@@ -129,7 +129,7 @@ Cite draft SHAs only — **do not rewrite** draft blobs. Benjamin HITL each chan
 - Cold email / Reddit / USA / NCUA / Marketplace / nist-nvd
 - Create Stripe / second SKU / invent checkout URL
 - Fulfill send before paid checkout
-- Mid/late pack or forum/quant pack (Futures.io / Trade2Win / Elite Trader / QuantConnect / NinjaTrader / BabyPips / Forex Factory / TradeStation / Multicharts) unless Benjamin expands
+- Mid/late pack or forum/quant pack (Futures.io / Trade2Win / Elite Trader / QuantConnect / NinjaTrader / BabyPips / Forex Factory / TradeStation / Multicharts / Sierra Chart) unless Benjamin expands
 
 **STOP holds.** HOLD COT-only. **DO-NOT-POST / DO-NOT-PUBLISH** until Benjamin.
 
