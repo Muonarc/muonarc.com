@@ -4,7 +4,7 @@
 >
 > **Scoreboard:** first paid dollar via **Friday COT Pack** only. FREEZE USA / NCUA / Marketplace / nist-nvd / cold email / Reddit until COT has taken money.
 
-**Status:** NEW Friday **2026-09-18** launch-morning HITL card on notes branch `cursor/notes-surface-a3e9`. Does **not** modify frozen Sep-16 tip `9fecc45a` (or older morning cards). Rogue does not post, email, publish, or open frozen rails.
+**Status:** NEW Friday **2026-09-18** launch-morning HITL card on notes branch `notes`. Does **not** modify frozen Sep-16 tip `9fecc45a` (or older morning cards). Rogue does not post, email, publish, or open frozen rails.
 
 ```
 LIVE NOTE (https): https://muonarc.com/notes/friday-cot-pack.html
@@ -76,11 +76,11 @@ Cite draft SHAs only — **do not rewrite** draft blobs. Benjamin HITL each chan
 | 3 | Show HN | `8796efcf` |
 | 4 | Twitter/X | `eb0a0f7c` |
 
-**Full order** (mid/late pack and the rest): runbook v9 `drafts/notes-first-cot-friday-launch-runbook-v9-2026-09-17.md` @ notes **`6c00dde2`** (supersedes v8 `7dc9a351` / v7 `bcfccce4` / v6 `b21209fb` / v5 `aefdb730` / v4 `51e19f9c` / v3 `213c8b5a` — cite only).
+**Full order** (mid/late pack and the rest): runbook v10 `drafts/notes-first-cot-friday-launch-runbook-v10-2026-09-17.md` @ notes **`add75747`** (supersedes v8 `7dc9a351` / v7 `bcfccce4` / v6 `b21209fb` / v5 `aefdb730` / v4 `51e19f9c` / v3 `213c8b5a` — cite only).
 
 **Defer** mid/late pack unless Benjamin greens more time.
 
-**Optional mid/later pack (forum/quant pack — not first-wave):** Futures.io `f5dbb0aa` → Trade2Win `739b3932` → Elite Trader `80dd5e3d` → QuantConnect `c76aea1d` → NinjaTrader `468e18f5` → BabyPips `45a19f38` — drafted but **deferred** from first-wave unless Benjamin expands. Cite only; do not rewrite those blobs.
+**Optional mid/later pack (forum/quant pack — not first-wave):** Futures.io `f5dbb0aa` → Trade2Win `739b3932` → Elite Trader `80dd5e3d` → QuantConnect `c76aea1d` → NinjaTrader `468e18f5` → BabyPips `45a19f38` → Forex Factory `4080e743` — drafted but **deferred** from first-wave unless Benjamin expands. Cite only; do not rewrite those blobs.
 
 ---
 
@@ -102,7 +102,7 @@ Cite draft SHAs only — **do not rewrite** draft blobs. Benjamin HITL each chan
 
 - **Scoreboard:** first paid dollar **COT-only**.
 - **FREEZE:** USA / NCUA / Marketplace / nist-nvd / cold email / Reddit.
-- **FREEZE untouched this commit:** tip morning HITL `9fecc45a`; fulfill `91aaacd3`; runbook v9 `6c00dde2` content (cite only); prior runbooks (v8 `7dc9a351` / v7 `bcfccce4` / v6 `b21209fb` / v5 `aefdb730` / v4 `51e19f9c` / v3 `213c8b5a` superseded — cite only); all channel drafts through BabyPips `45a19f38` (forum/quant pack Futures.io `f5dbb0aa` / Trade2Win `739b3932` / Elite Trader `80dd5e3d` / QuantConnect `c76aea1d` / NinjaTrader `468e18f5` / BabyPips `45a19f38` — cite only); main `606b300a`.
+- **FREEZE untouched this commit:** tip morning HITL `9fecc45a`; fulfill `91aaacd3`; runbook v10 `add75747` content (cite only); prior runbooks (v8 `7dc9a351` / v7 `bcfccce4` / v6 `b21209fb` / v5 `aefdb730` / v4 `51e19f9c` / v3 `213c8b5a` superseded — cite only); all channel drafts through Forex Factory `4080e743` (forum/quant pack Futures.io `f5dbb0aa` / Trade2Win `739b3932` / Elite Trader `80dd5e3d` / QuantConnect `c76aea1d` / NinjaTrader `468e18f5` / BabyPips `45a19f38` / Forex Factory `4080e743` — cite only); main `606b300a`.
 
 ---
 
@@ -129,7 +129,7 @@ Cite draft SHAs only — **do not rewrite** draft blobs. Benjamin HITL each chan
 - Cold email / Reddit / USA / NCUA / Marketplace / nist-nvd
 - Create Stripe / second SKU / invent checkout URL
 - Fulfill send before paid checkout
-- Mid/late pack or forum/quant pack (Futures.io / Trade2Win / Elite Trader / QuantConnect / NinjaTrader / BabyPips) unless Benjamin expands
+- Mid/late pack or forum/quant pack (Futures.io / Trade2Win / Elite Trader / QuantConnect / NinjaTrader / BabyPips / Forex Factory) unless Benjamin expands
 
 **STOP holds.** HOLD COT-only. **DO-NOT-POST / DO-NOT-PUBLISH** until Benjamin.
 
