@@ -76,11 +76,11 @@ Cite draft SHAs only — **do not rewrite** draft blobs. Benjamin HITL each chan
 | 3 | Show HN | `8796efcf` |
 | 4 | Twitter/X | `eb0a0f7c` |
 
-**Full order** (mid/late pack and the rest): runbook v4 `drafts/notes-first-cot-friday-launch-runbook-v4-2026-09-17.md` @ notes **`51e19f9c`** (supersedes v3 `213c8b5a`).
+**Full order** (mid/late pack and the rest): runbook v6 `drafts/notes-first-cot-friday-launch-runbook-v6-2026-09-17.md` @ notes **`b21209fb`** (supersedes v5 `aefdb730` / v4 `51e19f9c` / v3 `213c8b5a` — cite only).
 
 **Defer** mid/late pack unless Benjamin greens more time.
 
-**Optional (not first-wave):** Futures.io forum draft @ notes **`f5dbb0aa`** — drafted but **not** in first-wave unless Benjamin expands.
+**Optional mid/later pack (forum pack — not first-wave):** Futures.io `f5dbb0aa` → Trade2Win `739b3932` → Elite Trader `80dd5e3d` — drafted but **deferred** from first-wave unless Benjamin expands. Cite only; do not rewrite those blobs.
 
 ---
 
@@ -102,7 +102,7 @@ Cite draft SHAs only — **do not rewrite** draft blobs. Benjamin HITL each chan
 
 - **Scoreboard:** first paid dollar **COT-only**.
 - **FREEZE:** USA / NCUA / Marketplace / nist-nvd / cold email / Reddit.
-- **FREEZE untouched this commit:** tip morning HITL `9fecc45a`; fulfill `91aaacd3`; prior runbooks (v3 `213c8b5a` superseded — cite only; v4 `51e19f9c` content cite only); all channel drafts through YouTube (and Futures.io `f5dbb0aa` — cite only); main `606b300a`.
+- **FREEZE untouched this commit:** tip morning HITL `9fecc45a`; fulfill `91aaacd3`; runbook v6 `b21209fb` content (cite only); prior runbooks (v5 `aefdb730` / v4 `51e19f9c` / v3 `213c8b5a` superseded — cite only); all channel drafts through Elite Trader `80dd5e3d` (forum pack Futures.io `f5dbb0aa` / Trade2Win `739b3932` / Elite Trader `80dd5e3d` — cite only); main `606b300a`.
 
 ---
 
@@ -129,7 +129,7 @@ Cite draft SHAs only — **do not rewrite** draft blobs. Benjamin HITL each chan
 - Cold email / Reddit / USA / NCUA / Marketplace / nist-nvd
 - Create Stripe / second SKU / invent checkout URL
 - Fulfill send before paid checkout
-- Mid/late pack or Futures.io unless Benjamin expands
+- Mid/late pack or forum pack (Futures.io / Trade2Win / Elite Trader) unless Benjamin expands
 
 **STOP holds.** HOLD COT-only. **DO-NOT-POST / DO-NOT-PUBLISH** until Benjamin.
 
