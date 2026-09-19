@@ -5,7 +5,8 @@
 ```
 CHECKOUT URL: https://buy.stripe.com/eVqfZi16bbHibem4l95AQ00
 LIVE NOTE (https — Pages TLS DONE): https://muonarc.com/notes/friday-cot-pack.html
-WEEK: as-of Tuesday 2026-09-08 / CFTC released Friday 2026-09-11
+WEEK: as-of Tuesday 2026-09-15 / CFTC released Friday 2026-09-18
+PACK TIP (notes): 76cfaada
 ```
 
 **SKU:** Friday COT Pack only (12 liquid futures, CFTC public). Not USA Spending. Not NCUA+Title12. Not the $40 hospital MRF extract. Not GitHub paid storefront. Not Ko-fi. Not Gumroad.
@@ -13,27 +14,28 @@ WEEK: as-of Tuesday 2026-09-08 / CFTC released Friday 2026-09-11
 **AI disclosure (Rogue):** An AI prepared this pack and this template. Benjamin / Atlas reviews before any send.
 
 **Atlas context only (do not rewrite these files):**
-- Live Note page: `notes/friday-cot-pack.html` on main (Sep-08 week / released Sep-11)
-- Pack body this week: `drafts/notes-first-cot-pack-2026-09-11.md`
-- CSV this week: `drafts/cot-pack-2026-09-11.csv`
+- Live Note page: `notes/friday-cot-pack.html` on main (may still show prior as-of 2026-09-08 week until Benjamin one-approves Note-swap `7fefad84` — do not mutate Pages from this template)
+- Pack body this week: `drafts/notes-first-cot-pack-2026-09-18.md` @ notes tip **`76cfaada`**
+- CSV this week: `drafts/cot-pack-2026-09-18.csv` @ notes tip **`76cfaada`**
+- Prior fulfill tip **`91aaacd3`** superseded cite-only (do not rewrite that blob)
 
 ---
 
-## Verified attach pins (main tip — blobs still held; verified @ `5fb8a227` and current tip)
+## Verified attach pins (notes pack tip `76cfaada`)
 
 | File | Path | Blob | Size |
 | --- | --- | --- | ---: |
-| Buyer one-pager | `drafts/notes-first-cot-pack-2026-09-11.md` | `d764c6a7` | 10871B |
-| Buyer CSV | `drafts/cot-pack-2026-09-11.csv` | `d9c4f82f` | 3081B |
+| Buyer one-pager | `drafts/notes-first-cot-pack-2026-09-18.md` | `77c500f7` | 12837B |
+| Buyer CSV | `drafts/cot-pack-2026-09-18.csv` | `e8f59432` | 3103B |
 
-Attach **exactly** these blobs (one-pager `d764c6a7` 10871B / CSV `d9c4f82f` 3081B). Re-verified on main tip (still present after Buy-link land `5fb8a227`; current tip may be CNAME-only after that). Do not substitute older Sep-04 / Aug pack files.
+Attach **exactly** these blobs (one-pager `77c500f7` 12837B / CSV `e8f59432` 3103B) from pack tip **`76cfaada`**. Do not substitute older Sep-11 / Sep-04 / Aug pack files (`d764c6a7` / `d9c4f82f` or earlier).
 
 ---
 
 ## 1) Subject line
 
 ```
-Your Friday COT Pack — 12 liquid futures (as-of 2026-09-08 / released 2026-09-11)
+Your Friday COT Pack — 12 liquid futures (as-of 2026-09-15 / released 2026-09-18)
 ```
 
 ---
@@ -49,7 +51,7 @@ Thanks for buying this week's Friday COT Pack ($18) from Rogue Tools.
 
 Attached are the Markdown brief and the CSV for the 12 liquid futures (CL, NG, GC, SI, ZC, ZS, ZW, ES, NQ, 6E, 6J, BTC) from CFTC public Legacy Futures-Only COT.
 
-Week as-of Tuesday 2026-09-08 / released Friday 2026-09-11.
+Week as-of Tuesday 2026-09-15 / released Friday 2026-09-18.
 
 An AI prepared this pack. I (Benjamin) review before it goes out.
 
@@ -63,12 +65,12 @@ Rogue Tools
 
 ## 3) What attaches
 
-Attach both of these (blobs re-verified on main tip / at least `5fb8a227`):
+Attach both of these (blobs verified @ notes pack tip **`76cfaada`**):
 
-1. Markdown brief — `drafts/notes-first-cot-pack-2026-09-11.md` — blob **`d764c6a7`** (10871B)
-2. CSV — `drafts/cot-pack-2026-09-11.csv` — blob **`d9c4f82f`** (3081B)
+1. Markdown brief — `drafts/notes-first-cot-pack-2026-09-18.md` — blob **`77c500f7`** (12837B)
+2. CSV — `drafts/cot-pack-2026-09-18.csv` — blob **`e8f59432`** (3103B)
 
-Week as-of **2026-09-08** / released **2026-09-11**. 12 liquid futures. Not a GitHub issue form.
+Week as-of **2026-09-15** / released **2026-09-18**. 12 liquid futures. Not a GitHub issue form. Sample on the Note (after live swap) is 6J / ES / NG.
 
 ---
 
@@ -106,7 +108,9 @@ Price: **$18** one-time Friday pack. This is the Payment Link Benjamin created. 
 
 - File: `drafts/notes-first-cot-fulfillment-email-2026-09-01.md`
 - Fulfillment template only. **Do not send until a real paid checkout lands.**
+- Supersedes prior fulfill tip **`91aaacd3`** (cite only — leave that blob untouched).
 - HOLD COT-only: no USA/NCUA/Marketplace/nist-nvd/Pages mutation/cold email/fifth borrowed share.
+- Do not mutate main / Pages / live `friday-cot-pack.html` / HITL `c7edfda9` / Note-swap `7fefad84` / runbook v29 from this template.
 - Scoreboard: first paid dollar.
 
 AI-drafted by Rogue. Benjamin / Atlas reviews before any send.
