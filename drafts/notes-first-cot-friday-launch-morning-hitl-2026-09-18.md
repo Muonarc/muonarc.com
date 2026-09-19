@@ -4,32 +4,36 @@
 >
 > **Scoreboard:** first paid dollar via **Friday COT Pack** only. FREEZE USA / NCUA / Marketplace / nist-nvd / cold email / Reddit until COT has taken money.
 
-**Status:** Friday **2026-09-18** launch-morning HITL refresh on notes branch `notes`. Cites **this week's draft pack** `76cfaada` (as-of Tue 2026-09-15 / released Fri 2026-09-18) **and** runbook v29 `bb97701e` (Lightspeed folded). Live Note still shows prior week (as-of 2026-09-08) until Benjamin one-approves a live pack swap. Does **not** modify frozen Sep-16 tip `9fecc45a`. Rogue does not post, email, publish, or open frozen rails.
+**Status:** Friday **2026-09-18** launch-morning HITL refresh on notes branch `notes`. **Single Benjamin one-approve publish step** for morning brief: promote live Note-swap draft **`7fefad84`** (`drafts/notes-first-live-friday-cot-pack-2026-09-18.html`) over live `notes/friday-cot-pack.html` / Pages when he greens. Cites pack tip `76cfaada` (Sample 6J/ES/NG; as-of Tue 2026-09-15 / released Fri 2026-09-18; Stripe $18 unchanged) **and** runbook v29 `bb97701e`. Live Note still shows prior week (as-of 2026-09-08) until that approve. Prior HITL tip `36d875aa` superseded cite-only. Does **not** modify frozen Sep-16 tip `9fecc45a`. Rogue does not post, email, publish, or open frozen rails overnight.
 
 ```
 LIVE NOTE (https): https://muonarc.com/notes/friday-cot-pack.html
 CHECKOUT ($18 Friday COT Pack): https://buy.stripe.com/eVqfZi16bbHibem4l95AQ00
 FULFILL: one-pager + CSV emailed same day to Stripe checkout email
-LIVE WEEK (still on Pages until Benjamin swaps): as-of Tuesday 2026-09-08 / CFTC released Friday 2026-09-11
-DRAFT WEEK (notes tip — DO-NOT-PUBLISH to live): as-of Tuesday 2026-09-15 / CFTC released Friday 2026-09-18 @ notes 76cfaada
+LIVE WEEK (still on Pages until Benjamin one-approves): as-of Tuesday 2026-09-08 / CFTC released Friday 2026-09-11
+DRAFT WEEK pack (CSV + one-pager): as-of Tuesday 2026-09-15 / CFTC released Friday 2026-09-18 @ notes 76cfaada
+LIVE NOTE-SWAP DRAFT (one-approve promote): drafts/notes-first-live-friday-cot-pack-2026-09-18.html @ notes 7fefad84 — DO-NOT-PUBLISH overnight
 ```
 
 **AI disclosure (Rogue):** An AI drafted these paste pointers and this card. Benjamin reviews and posts (if any).
 
 ---
 
-## This week's draft pack (cite only — DO-NOT-PUBLISH to live)
+## This week's draft pack + live Note-swap (cite only — DO-NOT-PUBLISH overnight)
 
 | Item | Exact |
 | --- | --- |
-| Notes tip SHA | **`76cfaada`** (parent HITL tip `75854089` — cite only / superseded by this refresh) |
-| CSV | `drafts/cot-pack-2026-09-18.csv` |
-| One-pager | `drafts/notes-first-cot-pack-2026-09-18.md` |
+| Pack tip SHA | **`76cfaada`** — CSV `drafts/cot-pack-2026-09-18.csv` + one-pager `drafts/notes-first-cot-pack-2026-09-18.md` |
+| Live Note-swap draft SHA | **`7fefad84`** — `drafts/notes-first-live-friday-cot-pack-2026-09-18.html` (ready-to-promote mirror of live Note) |
+| Prior HITL tip | **`36d875aa`** (cite only — superseded by this refresh; older `75854089` / `08b65c1e` / `0910cddc` cite-only) |
 | As-of / release | Tuesday **2026-09-15** / Friday **2026-09-18** 3:30pm ET · Legacy Futures-Only |
-| Sample 3-of-12 (public CFTC) | **6J / ES / NG** |
-| Headline (draft) | Yen specs **+120,359** (52w high); **ES** sold further; **NG** still short extreme |
+| Sample 3-of-12 (public CFTC) | **6J / ES / NG** (not ZS) |
+| Headline (draft) | Yen specs **+120,359** (52w high); **ES** sold further (−100,461); **NG** still short extreme (−221,587) |
+| Stripe Buy | `https://buy.stripe.com/eVqfZi16bbHibem4l95AQ00` ($18) — unchanged |
 
-**Overnight:** stay quiet. **Morning brief:** ask Benjamin for **one approve** to (1) publish live pack swap on `notes/friday-cot-pack.html` (replace still-live as-of 2026-09-08 week with this draft) + (2) forum runbook / channel posts per runbook v29. Until that approve: **DO-NOT-POST / DO-NOT-PUBLISH**; do not mutate live Pages / main.
+**Overnight:** stay quiet. **DO-NOT-PUBLISH.** Do not mutate live Pages / main / `notes/friday-cot-pack.html` yourself. Do not refresh fulfill `91aaacd3` this window.
+
+**Morning brief — single Benjamin one-approve publish step:** When Benjamin greens, copy draft HTML `drafts/notes-first-live-friday-cot-pack-2026-09-18.html` @ notes **`7fefad84`** over live `notes/friday-cot-pack.html` / Cloudflare Pages (replace still-live as-of 2026-09-08 week). Forum runbook / channel posts remain per runbook v29 `bb97701e` and stay deferred without a separate expand. Until that one approve: **DO-NOT-POST / DO-NOT-PUBLISH**.
 
 ---
 
@@ -59,7 +63,7 @@ Prefer **https://** Note / Notes index URLs.
 
 ## Ready paste (one-shot approve/post)
 
-**Recommended post (matches LIVE week until Benjamin swaps):** this Ready paste only (launch-morning Sample tease + fulfill line + https Note). Draft week `76cfaada` stays in drafts until Benjamin one-approves live pack swap. Do not invent a second venue until Benjamin greens first-wave channels.
+**Recommended post (matches LIVE week until Benjamin one-approves Note-swap `7fefad84`):** this Ready paste only (launch-morning Sample tease + fulfill line + https Note). After Benjamin greens the single publish step, live Note will show as-of 2026-09-15 Sample 6J/ES/NG from the draft HTML. Do not invent a second venue until Benjamin greens first-wave channels.
 
 ### Paste (do not post until Benjamin says)
 
@@ -94,7 +98,7 @@ Cite draft SHAs only — **do not rewrite** draft blobs. Benjamin HITL each chan
 
 **Full order** (mid/late pack and the rest): runbook v29 `drafts/notes-first-cot-friday-launch-runbook-v29-2026-09-18.md` @ notes **`bb97701e`** (supersedes v28 `634a6971` / v27 `1817a84e` / v26 `0e85c371` / v25 `0496827a` / v24 `c6c705fc` / v23 `edf7af34` / v22 `7e38b191` / v21 `02705885` / v20 `b437324c` / v19 `ef7586bb` / v18 `d0e579a4` / v17 `7a87f344` / v16 `057a7266` / v15 `6c9518db` / v14 `7dca1899` / v13 `f2b59c3b` / v12 `97cbbd2b` / v11 `3ee6945b` / v10 `add75747` / v8 `7dc9a351` / v7 `bcfccce4` / v6 `b21209fb` / v5 `aefdb730` / v4 `51e19f9c` / v3 `213c8b5a` — cite only).
 
-**This week's pack drafts (fulfill / live-swap source — DO-NOT-PUBLISH until Benjamin):** CSV `drafts/cot-pack-2026-09-18.csv` + one-pager `drafts/notes-first-cot-pack-2026-09-18.md` @ notes **`76cfaada`** (Sample 6J / ES / NG; as-of 2026-09-15 / released 2026-09-18). Cite only.
+**This week's pack drafts (cite only):** CSV `drafts/cot-pack-2026-09-18.csv` + one-pager `drafts/notes-first-cot-pack-2026-09-18.md` @ notes **`76cfaada`**. **Live Note-swap draft (one-approve promote):** `drafts/notes-first-live-friday-cot-pack-2026-09-18.html` @ notes **`7fefad84`** (Sample 6J / ES / NG; Stripe $18 unchanged). DO-NOT-PUBLISH until Benjamin.
 
 **Defer** mid/late pack unless Benjamin greens more time.
 
@@ -120,7 +124,7 @@ Cite draft SHAs only — **do not rewrite** draft blobs. Benjamin HITL each chan
 
 - **Scoreboard:** first paid dollar **COT-only**.
 - **FREEZE:** USA / NCUA / Marketplace / nist-nvd / cold email / Reddit.
-- **FREEZE untouched this commit:** tip morning HITL `9fecc45a`; fulfill `91aaacd3`; prior HITL tip `75854089` (cite only — superseded by this refresh; older `08b65c1e` / `0910cddc` cite-only); runbook v29 `bb97701e` content (cite only); this week's pack drafts `76cfaada` (cite only — do not rewrite CSV/one-pager blobs); prior runbooks (v28 `634a6971` / v27 `1817a84e` / v26 `0e85c371` / v25 `0496827a` / v24 `c6c705fc` / v23 `edf7af34` / v22 `7e38b191` / v21 `02705885` / v20 `b437324c` / v19 `ef7586bb` / v18 `d0e579a4` / v17 `7a87f344` / v16 `057a7266` / v15 `6c9518db` / v14 `7dca1899` / v13 `f2b59c3b` / v12 `97cbbd2b` / v11 `3ee6945b` / v10 `add75747` / v8 `7dc9a351` / v7 `bcfccce4` / v6 `b21209fb` / v5 `aefdb730` / v4 `51e19f9c` / v3 `213c8b5a` superseded — cite only); all channel drafts through Lightspeed Futures `099c86b6` (forum/quant pack Futures.io `f5dbb0aa` / Trade2Win `739b3932` / Elite Trader `80dd5e3d` / QuantConnect `c76aea1d` / NinjaTrader `468e18f5` / BabyPips `45a19f38` / Forex Factory `4080e743` / TradeStation `bafbd51e` / Multicharts `518857ff` / `17f0d156` / Sierra Chart `038bb9c9` / thinkorswim `798e8f22` / IBKR `57da57b7` / tastytrade `8b0aa0d1` / Tradovate `35b37c31` / AMP Futures `be56e5c7` / Optimus Futures `ddcf8472` / EdgeClear `98ff3531` / Ironbeam `d5909273` / Phillip Capital `d4ff59f0` / Advantage Futures `da53e147` / Stage 5 Trading `9910b7d0` / Dorman Trading `e3bb99f9` / Daniels Trading `30802931` / Cannon Trading `97cd354d` / Infinity Futures `8b7adffd` / Lightspeed Futures `099c86b6` — cite only); main `606b300a`.
+- **FREEZE untouched this commit:** tip morning HITL `9fecc45a`; fulfill `91aaacd3` (do not refresh this window); prior HITL tip `36d875aa` (cite only — superseded by this refresh; older `75854089` / `08b65c1e` / `0910cddc` cite-only); runbook v29 `bb97701e` content (cite only); pack drafts `76cfaada` + live Note-swap draft `7fefad84` (cite only — do not rewrite blobs); prior runbooks (v28 `634a6971` / v27 `1817a84e` / v26 `0e85c371` / v25 `0496827a` / v24 `c6c705fc` / v23 `edf7af34` / v22 `7e38b191` / v21 `02705885` / v20 `b437324c` / v19 `ef7586bb` / v18 `d0e579a4` / v17 `7a87f344` / v16 `057a7266` / v15 `6c9518db` / v14 `7dca1899` / v13 `f2b59c3b` / v12 `97cbbd2b` / v11 `3ee6945b` / v10 `add75747` / v8 `7dc9a351` / v7 `bcfccce4` / v6 `b21209fb` / v5 `aefdb730` / v4 `51e19f9c` / v3 `213c8b5a` superseded — cite only); all channel drafts through Lightspeed Futures `099c86b6` (forum/quant pack Futures.io `f5dbb0aa` / Trade2Win `739b3932` / Elite Trader `80dd5e3d` / QuantConnect `c76aea1d` / NinjaTrader `468e18f5` / BabyPips `45a19f38` / Forex Factory `4080e743` / TradeStation `bafbd51e` / Multicharts `518857ff` / `17f0d156` / Sierra Chart `038bb9c9` / thinkorswim `798e8f22` / IBKR `57da57b7` / tastytrade `8b0aa0d1` / Tradovate `35b37c31` / AMP Futures `be56e5c7` / Optimus Futures `ddcf8472` / EdgeClear `98ff3531` / Ironbeam `d5909273` / Phillip Capital `d4ff59f0` / Advantage Futures `da53e147` / Stage 5 Trading `9910b7d0` / Dorman Trading `e3bb99f9` / Daniels Trading `30802931` / Cannon Trading `97cd354d` / Infinity Futures `8b7adffd` / Lightspeed Futures `099c86b6` — cite only); main `606b300a`.
 
 ---
 
@@ -142,7 +146,7 @@ Cite draft SHAs only — **do not rewrite** draft blobs. Benjamin HITL each chan
 ## Freeze / Out
 
 - Post / publish without Benjamin go
-- Modify frozen Sep-16 tip `9fecc45a` (or fulfill / prior runbooks / channel drafts / main / live `notes/friday-cot-pack.html` without Benjamin one-approve)
+- Modify frozen Sep-16 tip `9fecc45a` (or fulfill / prior runbooks / channel drafts / main / live `notes/friday-cot-pack.html` without Benjamin one-approve of Note-swap `7fefad84`)
 - Prefer https Note URLs
 - Cold email / Reddit / USA / NCUA / Marketplace / nist-nvd
 - Create Stripe / second SKU / invent checkout URL
