@@ -36,9 +36,9 @@ Friday COT Pack is a one-pager + CSV for 12 liquid futures after each Friday CFT
 
 CL · NG · GC · SI · ZC · ZS · ZW · ES · NQ · 6E · 6J · BTC
 
-The CSV keeps the same schema each week: net speculative / commercial / non-reportable, 1-week + 4-week change, and 52-week percentile of net spec. Open it next to a Advantage Futures–connected workspace for context around positioning; it is not an automated signal, platform study or algo code, an indicator, or a strategy.
+The CSV keeps the same schema each week: net speculative / commercial / non-reportable, 1-week + 4-week change, and 52-week percentile of net spec. Open it next to an Advantage Futures–connected workspace for context around positioning; it is not an automated signal, platform study or algo code, an indicator, or a strategy.
 
-Same-week snapshot (as-of Tuesday 2026-09-08 / CFTC released Friday 2026-09-11): yen specs flipped net long, soybeans were at a 52-week high, and natural gas was at a 52-week short extreme — examples of the positioning context the pack surfaces, not trade calls and not a Advantage Futures strategy.
+Same-week snapshot (as-of Tuesday 2026-09-08 / CFTC released Friday 2026-09-11): yen specs flipped net long, soybeans were at a 52-week high, and natural gas was at a 52-week short extreme — examples of the positioning context the pack surfaces, not trade calls and not an Advantage Futures strategy.
 
 Free 3-of-12 Sample first (same CSV columns): 6J / ZS / NG as-of Tuesday 2026-09-08. See the deliverable shape before Buy:
 
@@ -48,7 +48,7 @@ Paid pack: $18 one-time via Stripe. One-pager + CSV emailed the same day to the 
 
 https://buy.stripe.com/eVqfZi16bbHibem4l95AQ00
 
-Public CFTC data only. Educational / research framing — not a trade signal, investment advice, or a Advantage Futures product. Drafted with Rogue (an AI agent) in the Muonarc Notes voice; independently check any number you rely on.
+Public CFTC data only. Educational / research framing — not a trade signal, investment advice, or an Advantage Futures product. Drafted with Rogue (an AI agent) in the Muonarc Notes voice; independently check any number you rely on.
 ```
 
 ---
