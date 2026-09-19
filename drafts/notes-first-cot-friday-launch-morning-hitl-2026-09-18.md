@@ -4,7 +4,7 @@
 >
 > **Scoreboard:** first paid dollar via **Friday COT Pack** only. FREEZE USA / NCUA / Marketplace / nist-nvd / cold email / Reddit until COT has taken money.
 
-**Status:** Friday **2026-09-18** launch-morning HITL refresh on notes branch `notes`. **Single Benjamin one-approve publish step** for morning brief: promote live Note-swap draft **`7fefad84`** (`drafts/notes-first-live-friday-cot-pack-2026-09-18.html`) over live `notes/friday-cot-pack.html` / Pages when he greens. Cites pack tip `76cfaada` (Sample 6J/ES/NG; as-of Tue 2026-09-15 / released Fri 2026-09-18; Stripe $18 unchanged) **and** runbook v29 `bb97701e`. Live Note still shows prior week (as-of 2026-09-08) until that approve. Prior HITL tip `36d875aa` superseded cite-only. Does **not** modify frozen Sep-16 tip `9fecc45a`. Rogue does not post, email, publish, or open frozen rails overnight.
+**Status:** Friday **2026-09-18** launch-morning HITL refresh on notes branch `notes`. **Single Benjamin one-approve publish step** for morning brief: promote live Note-swap draft **`7fefad84`** (`drafts/notes-first-live-friday-cot-pack-2026-09-18.html`) over live `notes/friday-cot-pack.html` / Pages when he greens. Cites pack tip `76cfaada` (Sample 6J/ES/NG; as-of Tue 2026-09-15 / released Fri 2026-09-18; Stripe $18 unchanged) **and** runbook v29 `bb97701e`. Live Note still shows prior week (as-of 2026-09-08) until that approve. Prior HITL tip `c7edfda9` superseded cite-only (older `36d875aa` / `75854089` cite-only). Fulfill tip cite **`be44cd61`** (supersedes stale `91aaacd3`). Does **not** modify frozen Sep-16 tip `9fecc45a`. Rogue does not post, email, publish, or open frozen rails overnight.
 
 ```
 LIVE NOTE (https): https://muonarc.com/notes/friday-cot-pack.html
@@ -31,7 +31,7 @@ LIVE NOTE-SWAP DRAFT (one-approve promote): drafts/notes-first-live-friday-cot-p
 | Headline (draft) | Yen specs **+120,359** (52w high); **ES** sold further (−100,461); **NG** still short extreme (−221,587) |
 | Stripe Buy | `https://buy.stripe.com/eVqfZi16bbHibem4l95AQ00` ($18) — unchanged |
 
-**Overnight:** stay quiet. **DO-NOT-PUBLISH.** Do not mutate live Pages / main / `notes/friday-cot-pack.html` yourself. Do not refresh fulfill `91aaacd3` this window.
+**Overnight:** stay quiet. **DO-NOT-PUBLISH.** Do not mutate live Pages / main / `notes/friday-cot-pack.html` yourself. Fulfill template cite **`be44cd61`** (DO-NOT-SEND) — do not rewrite fulfill body.
 
 **Morning brief — single Benjamin one-approve publish step:** When Benjamin greens, copy draft HTML `drafts/notes-first-live-friday-cot-pack-2026-09-18.html` @ notes **`7fefad84`** over live `notes/friday-cot-pack.html` / Cloudflare Pages (replace still-live as-of 2026-09-08 week). Forum runbook / channel posts remain per runbook v29 `bb97701e` and stay deferred without a separate expand. Until that one approve: **DO-NOT-POST / DO-NOT-PUBLISH**.
 
@@ -54,8 +54,8 @@ Before any Ready paste or channel HITL:
 ## If you only have 90 seconds
 
 1. **Live verify** the three checks above — then **Ready paste only** (below — **https** Note URL) — then **stop**.
-2. **Watch Gmail payment-detect** — `from:stripe.com (payment OR receipt OR "Payment Link") newer_than:7d` (ignore Render / Grok / device). If COT / Friday COT Pack / $18 / muonarc paid → open fulfill `drafts/notes-first-cot-fulfillment-email-2026-09-01.md` @ notes **`91aaacd3`**. **DO-NOT-SEND** until Benjamin confirms.
-3. **Fulfill-on-HIT** — Benjamin confirms paid → attach blobs → HITL send per fulfill draft **`91aaacd3`**.
+2. **Watch Gmail payment-detect** — `from:stripe.com (payment OR receipt OR "Payment Link") newer_than:7d` (ignore Render / Grok / device). If COT / Friday COT Pack / $18 / muonarc paid → open fulfill `drafts/notes-first-cot-fulfillment-email-2026-09-01.md` @ notes **`be44cd61`** (attach pins: one-pager blob **`77c500f7`** 12837B / CSV blob **`e8f59432`** 3103B @ pack tip **`76cfaada`**; week as-of Tue **2026-09-15** / released Fri **2026-09-18**; Stripe $18 unchanged). **DO-NOT-SEND** until Benjamin confirms.
+3. **Fulfill-on-HIT** — Benjamin confirms paid → attach blobs `77c500f7` + `e8f59432` → HITL send per fulfill draft **`be44cd61`**.
 
 Prefer **https://** Note / Notes index URLs.
 
@@ -112,11 +112,14 @@ Cite draft SHAs only — **do not rewrite** draft blobs. Benjamin HITL each chan
 | --- | --- |
 | Live Note | `https://muonarc.com/notes/friday-cot-pack.html` |
 | Stripe checkout | `https://buy.stripe.com/eVqfZi16bbHibem4l95AQ00` ($18) |
-| Fulfill email template | `drafts/notes-first-cot-fulfillment-email-2026-09-01.md` @ notes **`91aaacd3`** — **do-not-send** until Benjamin confirms a paid checkout |
+| Fulfill email template | `drafts/notes-first-cot-fulfillment-email-2026-09-01.md` @ notes **`be44cd61`** — **do-not-send** until Benjamin confirms a paid checkout |
+| Attach one-pager | `drafts/notes-first-cot-pack-2026-09-18.md` blob **`77c500f7`** (12837B) @ pack tip **`76cfaada`** |
+| Attach CSV | `drafts/cot-pack-2026-09-18.csv` blob **`e8f59432`** (3103B) @ pack tip **`76cfaada`** |
+| Pack week | as-of Tue **2026-09-15** / released Fri **2026-09-18** · Stripe $18 unchanged |
 
-**Payment detect:** Gmail `from:stripe.com (payment OR receipt OR "Payment Link") newer_than:7d` — ignore Render / Grok / device. COT/$18/muonarc hit → YES Benjamin with thread id + open fulfill `91aaacd3`. **DO-NOT-SEND** yourself.
+**Payment detect:** Gmail `from:stripe.com (payment OR receipt OR "Payment Link") newer_than:7d` — ignore Render / Grok / device. COT/$18/muonarc hit → YES Benjamin with thread id + open fulfill **`be44cd61`**. **DO-NOT-SEND** yourself.
 
-**60s path:** Benjamin confirms paid checkout → open template @ notes **`91aaacd3`** → attach one-pager + CSV → HITL send.
+**60s path:** Benjamin confirms paid checkout → open template @ notes **`be44cd61`** → attach one-pager blob **`77c500f7`** + CSV blob **`e8f59432`** (pack tip **`76cfaada`**) → HITL send.
 
 ---
 
@@ -124,7 +127,7 @@ Cite draft SHAs only — **do not rewrite** draft blobs. Benjamin HITL each chan
 
 - **Scoreboard:** first paid dollar **COT-only**.
 - **FREEZE:** USA / NCUA / Marketplace / nist-nvd / cold email / Reddit.
-- **FREEZE untouched this commit:** tip morning HITL `9fecc45a`; fulfill `91aaacd3` (do not refresh this window); prior HITL tip `36d875aa` (cite only — superseded by this refresh; older `75854089` / `08b65c1e` / `0910cddc` cite-only); runbook v29 `bb97701e` content (cite only); pack drafts `76cfaada` + live Note-swap draft `7fefad84` (cite only — do not rewrite blobs); prior runbooks (v28 `634a6971` / v27 `1817a84e` / v26 `0e85c371` / v25 `0496827a` / v24 `c6c705fc` / v23 `edf7af34` / v22 `7e38b191` / v21 `02705885` / v20 `b437324c` / v19 `ef7586bb` / v18 `d0e579a4` / v17 `7a87f344` / v16 `057a7266` / v15 `6c9518db` / v14 `7dca1899` / v13 `f2b59c3b` / v12 `97cbbd2b` / v11 `3ee6945b` / v10 `add75747` / v8 `7dc9a351` / v7 `bcfccce4` / v6 `b21209fb` / v5 `aefdb730` / v4 `51e19f9c` / v3 `213c8b5a` superseded — cite only); all channel drafts through Lightspeed Futures `099c86b6` (forum/quant pack Futures.io `f5dbb0aa` / Trade2Win `739b3932` / Elite Trader `80dd5e3d` / QuantConnect `c76aea1d` / NinjaTrader `468e18f5` / BabyPips `45a19f38` / Forex Factory `4080e743` / TradeStation `bafbd51e` / Multicharts `518857ff` / `17f0d156` / Sierra Chart `038bb9c9` / thinkorswim `798e8f22` / IBKR `57da57b7` / tastytrade `8b0aa0d1` / Tradovate `35b37c31` / AMP Futures `be56e5c7` / Optimus Futures `ddcf8472` / EdgeClear `98ff3531` / Ironbeam `d5909273` / Phillip Capital `d4ff59f0` / Advantage Futures `da53e147` / Stage 5 Trading `9910b7d0` / Dorman Trading `e3bb99f9` / Daniels Trading `30802931` / Cannon Trading `97cd354d` / Infinity Futures `8b7adffd` / Lightspeed Futures `099c86b6` — cite only); main `606b300a`.
+- **FREEZE untouched this commit:** tip morning HITL `9fecc45a`; fulfill tip **`be44cd61`** (cite only — do not rewrite fulfill body; prior fulfill `91aaacd3` superseded cite-only); prior HITL tip **`c7edfda9`** (cite only — superseded by this refresh; older `36d875aa` / `75854089` / `08b65c1e` / `0910cddc` cite-only); runbook v29 `bb97701e` content (cite only); pack drafts `76cfaada` + live Note-swap draft `7fefad84` (cite only — do not rewrite blobs); prior runbooks (v28 `634a6971` / v27 `1817a84e` / v26 `0e85c371` / v25 `0496827a` / v24 `c6c705fc` / v23 `edf7af34` / v22 `7e38b191` / v21 `02705885` / v20 `b437324c` / v19 `ef7586bb` / v18 `d0e579a4` / v17 `7a87f344` / v16 `057a7266` / v15 `6c9518db` / v14 `7dca1899` / v13 `f2b59c3b` / v12 `97cbbd2b` / v11 `3ee6945b` / v10 `add75747` / v8 `7dc9a351` / v7 `bcfccce4` / v6 `b21209fb` / v5 `aefdb730` / v4 `51e19f9c` / v3 `213c8b5a` superseded — cite only); all channel drafts through Lightspeed Futures `099c86b6` (forum/quant pack Futures.io `f5dbb0aa` / Trade2Win `739b3932` / Elite Trader `80dd5e3d` / QuantConnect `c76aea1d` / NinjaTrader `468e18f5` / BabyPips `45a19f38` / Forex Factory `4080e743` / TradeStation `bafbd51e` / Multicharts `518857ff` / `17f0d156` / Sierra Chart `038bb9c9` / thinkorswim `798e8f22` / IBKR `57da57b7` / tastytrade `8b0aa0d1` / Tradovate `35b37c31` / AMP Futures `be56e5c7` / Optimus Futures `ddcf8472` / EdgeClear `98ff3531` / Ironbeam `d5909273` / Phillip Capital `d4ff59f0` / Advantage Futures `da53e147` / Stage 5 Trading `9910b7d0` / Dorman Trading `e3bb99f9` / Daniels Trading `30802931` / Cannon Trading `97cd354d` / Infinity Futures `8b7adffd` / Lightspeed Futures `099c86b6` — cite only); main `606b300a`.
 
 ---
 
