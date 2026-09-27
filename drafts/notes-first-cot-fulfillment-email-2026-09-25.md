@@ -1,0 +1,116 @@
+# HITL / NOT PUBLISHED — buyer-fulfillment email template (Friday COT Pack)
+
+**Status:** HITL draft. Not published. **Do not send until a real paid Stripe checkout lands.** Paste-ready copy Atlas uses after a paid Friday COT Pack order. Checkout URL below is the live Payment Link Benjamin created (2026-09-03). Price: **$18** one-time Friday pack.
+
+```
+CHECKOUT URL: https://buy.stripe.com/eVqfZi16bbHibem4l95AQ00
+LIVE NOTE (https — Pages TLS DONE): https://muonarc.com/notes/friday-cot-pack.html
+WEEK: as-of Tuesday 2026-09-22 / CFTC released Friday 2026-09-25
+PACK TIP (notes): same commit that adds this file (parent 39c245cc)
+```
+
+**SKU:** Friday COT Pack only (12 liquid futures, CFTC public). Not USA Spending. Not NCUA+Title12. Not the $40 hospital MRF extract. Not GitHub paid storefront. Not Ko-fi. Not Gumroad.
+
+**AI disclosure (Rogue):** An AI prepared this pack and this template. Benjamin / Atlas reviews before any send.
+
+**Atlas context only (do not rewrite these files):**
+- Live Note page: `notes/friday-cot-pack.html` on main (may still show prior as-of 2026-09-08 week until Benjamin one-approves Note-swap `drafts/notes-first-live-friday-cot-pack-2026-09-25.html` (added `39c245cc`; ZS copy fix in the same commit as this file) — do not mutate Pages from this template)
+- Pack body this week: `drafts/notes-first-cot-pack-2026-09-25.md` @ same notes commit as this file (parent **`39c245cc`**)
+- CSV this week: `drafts/cot-pack-2026-09-25.csv` @ same notes commit as this file (parent **`39c245cc`**)
+- Prior fulfill tip **`be44cd61`** (`drafts/notes-first-cot-fulfillment-email-2026-09-01.md`, as-of 2026-09-15) superseded cite-only (do not rewrite that blob)
+
+---
+
+## Verified attach pins (notes pack: same commit as this file, parent `39c245cc`)
+
+| File | Path | Blob | Size |
+| --- | --- | --- | ---: |
+| Buyer one-pager | `drafts/notes-first-cot-pack-2026-09-25.md` | `14720b25` | 13061B |
+| Buyer CSV | `drafts/cot-pack-2026-09-25.csv` | `74a01940` | 3093B |
+
+Attach **exactly** these blobs (one-pager `14720b25` 13061B / CSV `74a01940` 3093B) from the notes commit that adds this file (parent **`39c245cc`**). Do not substitute older Sep-18 / Sep-11 / Sep-04 / Aug pack files (Sep-18 `77c500f7` / `e8f59432`; `d764c6a7` / `d9c4f82f` or earlier).
+
+---
+
+## 1) Subject line
+
+```
+Your Friday COT Pack — 12 liquid futures (as-of 2026-09-22 / released 2026-09-25)
+```
+
+---
+
+## 2) Body (paste after a paid Stripe checkout)
+
+First person as Benjamin / Rogue Tools. Do not send until payment clears.
+
+```
+Hi —
+
+Thanks for buying this week's Friday COT Pack ($18) from Rogue Tools.
+
+Attached are the Markdown brief and the CSV for the 12 liquid futures (CL, NG, GC, SI, ZC, ZS, ZW, ES, NQ, 6E, 6J, BTC) from CFTC public Legacy Futures-Only COT.
+
+Week as-of Tuesday 2026-09-22 / released Friday 2026-09-25.
+
+An AI prepared this pack. I (Benjamin) review before it goes out.
+
+If an attachment is missing, reply to this email.
+
+— Benjamin
+Rogue Tools
+```
+
+---
+
+## 3) What attaches
+
+Attach both of these (blobs verified @ the notes commit that adds this file, parent **`39c245cc`**):
+
+1. Markdown brief — `drafts/notes-first-cot-pack-2026-09-25.md` — blob **`14720b25`** (13061B)
+2. CSV — `drafts/cot-pack-2026-09-25.csv` — blob **`74a01940`** (3093B)
+
+Week as-of **2026-09-22** / released **2026-09-25**. 12 liquid futures. Not a GitHub issue form. Sample on the Note (after live swap) is 6J / ES / NG.
+
+---
+
+## 4) AI disclosure line
+
+Included in the body above:
+
+```
+An AI prepared this pack. I (Benjamin) review before it goes out.
+```
+
+---
+
+## 5) Reply-if-missing line
+
+Included in the body above:
+
+```
+If an attachment is missing, reply to this email.
+```
+
+---
+
+## 6) Checkout URL (live Payment Link)
+
+```
+CHECKOUT URL: https://buy.stripe.com/eVqfZi16bbHibem4l95AQ00
+```
+
+Price: **$18** one-time Friday pack. This is the Payment Link Benjamin created. Do not invent a second URL. Do not create another Stripe product from this template.
+
+---
+
+## HITL close
+
+- File: `drafts/notes-first-cot-fulfillment-email-2026-09-25.md`
+- Fulfillment template only. **Do not send until a real paid checkout lands.**
+- Supersedes prior fulfill tip **`be44cd61`** (`drafts/notes-first-cot-fulfillment-email-2026-09-01.md`; cite only — leave that blob untouched).
+- HOLD COT-only: no USA/NCUA/Marketplace/nist-nvd/Pages mutation/cold email/fifth borrowed share.
+- Do not mutate main / Pages / live `friday-cot-pack.html` / HITL `c7edfda9` / Note-swap `7fefad84` / Note-swap `39c245cc` / runbook v29 from this template.
+- Scoreboard: first paid dollar.
+
+AI-drafted by Rogue. Benjamin / Atlas reviews before any send.
